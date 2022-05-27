@@ -54,8 +54,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-**Congratulations to Qin Zhongya**
+**Congratulations to Zhongya Qin**
 
 <!--more-->
 
-**Qin Zhongya graduated from QuLab in June/2021**
+**Zhongya Qin graduated from QuLab in June/2021**
