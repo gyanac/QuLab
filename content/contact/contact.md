@@ -22,6 +22,7 @@ content:
     street: Clear Water Bay Rd
     city: Hong Kong
 
+
   coordinates:
     latitude: '22.3375'
     longitude: '114.263'
