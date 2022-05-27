@@ -55,8 +55,8 @@ slides:
 projects:
 ---
 
-**Congratulations to Chen Congping**
+**Congratulations to Congping Chen**
 
 <!--more-->
 
-**Chen Congping graduated from QuLab in Apr/2021**
+**Congping Chen graduated from QuLab in Apr/2021**

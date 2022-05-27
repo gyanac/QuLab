@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} QuLab. This work is licensed under {license}'
+    notice: '© {year} QuLab. This work is created by Geiwei YAN, Zhentao SHE, Yiming FU'
     license:
       enable: true
       allow_derivatives: false
