@@ -68,6 +68,8 @@ termed ALPHA-FSS, or α-FSS. The method allows accurate measurement
 and corrective updates of both aberrations and scattering in
 highly turbid tissue at great depth. 
 
+![screen reader text](Grin_lens.png "AO enhanced grin lens imaging in deep brain")
+
 ***2. AO in retinal imaging***
 
 ![screen reader text](retinal.jpg "AO enhanced retino imaging")

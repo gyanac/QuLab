@@ -23,7 +23,7 @@ authors:
 
 
 date: '2019-09-18T00:00:00Z'
-doi: 'https://www.nature.com/articles/s41467-019-12247-w'
+doi: 'https://doi.org/10.1038/s41467-019-12247-w'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2019-09-18T00:00:00Z'
