@@ -26,7 +26,7 @@ content:
     latitude: '22.3375'
     longitude: '114.263'
 
-  directions: Enter Academic Building, go to lift 17, room 2434
+  directions: Academic building, Room 3125b (lift 22)/Room 2434 (lift 17)
 
 
 

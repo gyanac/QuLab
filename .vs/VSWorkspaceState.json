@@ -2,15 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\authors\\Yingzhu HE",
-    "\\content\\authors\\Zhongya Qin",
-    "\\content\\people",
-    "\\content\\publication",
-    "\\content\\publication\\journal-article",
-    "\\content\\publication\\journal-article\\2020_eLife"
+    "\\content\\contact",
+    "\\content\\event",
+    "\\content\\event\\Last_Spring_Festival",
+    "\\content\\event\\Nanya_Trip",
+    "\\content\\event\\QZY_Graduation",
+    "\\content\\event\\Spring_festival",
+    "\\content\\event\\Tamen_Trip",
+    "\\content\\post",
+    "\\content\\post\\WWJ-prize"
   ],
-  "SelectedNode": "\\content\\authors\\Wanjie WU\\_index.md",
+  "SelectedNode": "\\config",
   "PreviewInSolutionExplorer": false
 }
