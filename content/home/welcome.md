@@ -11,7 +11,7 @@ design:
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 5000
 
 content:
   slides:
@@ -19,13 +19,13 @@ content:
       content: We develop novel imaging and spectroscopy methods for in vivo biological research.
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: HomeCover_4.png
     - title: RELAXING AND PROFICIENT ATMOSPHERE
       content: 'Share your knowledge with us and explore new exciting research together!'
-      align: left
+      align: center
       background:
         position: center
         color: '#555'
@@ -33,7 +33,7 @@ content:
         media: HomeCover_6.png
     - title: WORLD-CLASS OPTICS LABORATORY
       content: 'We have the top-level experiment instruments in the world!'
-      align: right
+      align: center
       background:
         position: center
         color: '#333'
