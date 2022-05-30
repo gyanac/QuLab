@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: SunRise2.jpg
+    image: IMG_6701.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

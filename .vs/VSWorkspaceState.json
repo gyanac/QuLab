@@ -2,17 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\Alumni",
-    "\\content\\authors\\Alumni\\Zhongya Qin",
     "\\content\\contact",
-    "\\content\\home",
-    "\\content\\publication",
-    "\\content\\publication\\journal-article",
-    "\\static",
-    "\\static\\PDF",
-    "\\static\\PDF\\2018_eLife"
+    "\\content\\event",
+    "\\content\\event\\Last_Spring_Festival",
+    "\\content\\event\\Nanya_Trip",
+    "\\content\\event\\QZY_Graduation",
+    "\\content\\event\\Spring_festival",
+    "\\content\\event\\Tamen_Trip",
+    "\\content\\post",
+    "\\content\\post\\WWJ-prize"
   ],
-  "SelectedNode": "\\content\\contact\\contact.md",
+  "SelectedNode": "\\config",
   "PreviewInSolutionExplorer": false
 }

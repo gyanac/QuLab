@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} QuLab. This work is created by Geiwei YAN, Zhentao SHE, Yiming FU'
+    notice: '© {year} QuLab. This website is built by Geiwei YAN, Zhentao SHE, Yiming FU'
     license:
       enable: true
       allow_derivatives: false

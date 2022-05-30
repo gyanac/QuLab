@@ -11,29 +11,29 @@ design:
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 2000
+  interval: 5000
 
 content:
   slides:
-    - title: OPTICAL PHYSICS FOR BIOMEDICAL IMAGING
-      content: We develop novel imaging and spectroscopy methods for in vivo biological research.
+    - title: Laboratory for Imaging Life with Light
+      content: Welcome to the Qu's biophotonics research lab at HKUST!
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
         media: HomeCover_4.png
-    - title: RELAXING AND PROFICIENT ATMOSPHERE
-      content: 'Share your knowledge with us and explore new exciting research together!'
-      align: left
+    - title: Laboratory for Imaging Life with Light
+      content: QU Research Group is a highly interdisciplinary research team devoted to developing versatile biophotonics technology for fundamental and applied biomedical studies.
+      align: center
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: HomeCover_6.png
-    - title: WORLD-CLASS OPTICS LABORATORY
-      content: 'We have the top-level experiment instruments in the world!'
-      align: right
+    - title: Laboratory for Imaging Life with Light
+      content: We always welcome talented students from any related programs.
+      align: center
       background:
         position: center
         color: '#333'
