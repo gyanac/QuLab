@@ -3,14 +3,16 @@
     "",
     "\\content",
     "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\authors\\Yingzhu HE",
-    "\\content\\authors\\Zhongya Qin",
-    "\\content\\people",
+    "\\content\\authors\\Alumni",
+    "\\content\\authors\\Alumni\\Zhongya Qin",
+    "\\content\\contact",
+    "\\content\\home",
     "\\content\\publication",
     "\\content\\publication\\journal-article",
-    "\\content\\publication\\journal-article\\2020_eLife"
+    "\\static",
+    "\\static\\PDF",
+    "\\static\\PDF\\2018_eLife"
   ],
-  "SelectedNode": "\\content\\authors\\Wanjie WU\\_index.md",
+  "SelectedNode": "\\content\\contact\\contact.md",
   "PreviewInSolutionExplorer": false
 }
