@@ -16,17 +16,17 @@ weight: 90
 title: 
 subtitle:
 
+
 design:
   view: 4
   columns: '4'
 ---
-<div align='center' ><font size='70'>Group Activity Gallery</font></div>
 
 
 
 
 
-<tr><img src= "/gallery/Group event-1.jpg" alt="Pulpit rock" width="400" height="600"></tr>
-<tr><img src= "/gallery/Group event-2.jpg" alt="Pulpit rock" width="500" height="800"></tr>
-<td><img src= "/gallery/Group event-3.jpg" alt="Pulpit rock" width="300" height="228"></td>
-<td><img src= "/gallery/Group event-4.jpg" alt="Pulpit rock" width="400" height="600"></td>
+<a href="../gallery/"><div align='center' ><font size='70'><font color="Black"><div style="font-family:Times New Roman;">View Group Activity Gallery</div></font><font color="red"></div></a>
+
+
+
