@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: wwuas@connect.ust.hk"
+role: B.S., Zhejiang University, Hangzhou, China <br/> E-mail wwuas at connect.ust.hk
 
 _build:
   render: never
@@ -20,8 +20,8 @@ cascade:
     render: never
     list: always
 
-weight: 1
+
 
 user_groups:
-  - Doctor of Philosophy
+  - Graduate students
 ---

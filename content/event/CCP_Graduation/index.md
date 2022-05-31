@@ -3,7 +3,6 @@ title: Dr Congping Chen 's Graduation
 
 event: Congping Chen Graduation
 event_url: 
-
 location: HKSAR
 address:
   street: 

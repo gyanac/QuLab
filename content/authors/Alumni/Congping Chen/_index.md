@@ -7,7 +7,7 @@ authors:
   - Congping CHEN
 
 
-role: (Ph.D. 2021) <br/>  Optical engineer, Mindray Medical
+role: (Ph.D. 2021) <br/>  Senior engineer, Mindray Medical
 
 weight: 3
 

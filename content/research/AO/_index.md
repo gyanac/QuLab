@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: Adaptive Optics enabling deep and high-resolution imaging 
+title: Adaptive optics microscopy for fine live imaging
 
 # Section subtitle
 subtitle:
@@ -38,48 +38,79 @@ design:
   view: 3
 ---
 <!--more-->
-***1. AO in deep brain imaging***
-<br />
-Breakthroughs in imaging technology have been the primary
-driving force of new biological discoveries. Optical microscopy
-has greatly facilitated biomedical research in recent
-decades, with its ability to provide structural and functional information
-in living specimens at high spatiotemporal resolution.
-However, optical aberration and scattering occur as light travels
-through and interacts with inhomogeneous biological tissues, such
-as the mammalian brain, fundamentally limiting the performance
-of optical microscopy in both resolution and depth. 
-Adaptive optics (AO) compensation of specimen-induced
-aberrations is essential to recover optimal imaging performance
-at depth. The desired excitation wavefront can be determined
-using either direct or indirect approaches. Direct wavefront
-sensing of a fluorescent guide star inside biological tissue enables
-rapid measurement of aberration, but it depends on quasi-ballistic
-photons for wavefront sensing, and the performance degrades
-rapidly at deptH. In indirect sensing approaches, various algorithms
-are designed to determine the optimal corrective wavefront.
-The methods are more suitable for opaque tissues but are 
-usually time-consuming and mainly deal with optical aberrations.
-
+***1. Towards the non-invasive imaging of brain networks and functions at high resolution***
 <br />
 
-In this work, we developed an AO 3PM based on a method
-termed ALPHA-FSS, or α-FSS. The method allows accurate measurement
-and corrective updates of both aberrations and scattering in
-highly turbid tissue at great depth. 
+We developed a new microscope system combining three-photon excitation and adaptive optics capable of 
+high-resolution in vivo imaging of fine neuronal structures in the mouse cortex through intact skull of
+mouse. We demonstrated the use of this platform to guide precise laser-mediated microsurgery through the 
+intact skull and for accurate and sensitive functional calcium imaging of brain.
+<br />
+
+
+**Related article:** 
+<br />
+
+<a href="https://doi.org/10.1101/2021.08.04.455159">Zhongya Qin, Zhentao SHE, Congping Chen, Wanjie Wu, Jackie K.Y. Lau, Nancy Y. Ip, Jianan Y. Qu (2021).
+Deep tissue multi-photon imaging using adaptive optics with direct focus sensing and shaping. *Nature Biotechnology* </a>
+<br />
+
+**Related research grants:** 
+<br />
+
+General Research Fund (16102518): "High-resolution imaging of mouse brain in vivo through thinned skull cranial window based on adaptive optics wavefront correction"
+<br />
+
+Collaborative Research Fund (C6001-19EF): "High-resolution adaptive optics microscope system for live and deep imaging of biological tissues"
+<br />
+
 
 ![screen reader text](Grin_lens.png "AO enhanced grin lens imaging in deep brain")
 
-***2. AO in retinal imaging***
+
+***2. Deep brain imaging enabled by adaptive optics two-photon endomicroscopy***
+<br />
+
+Optical deep brain imaging in vivo at high resolution has remained a great challenge.
+We developed an adaptive optics two-photon endomicroscopy providing a minimally invasive approach to image buried brain structures at high-resolution.
+A new precompensation strategy plays a critical role to correct aberrations over large volumes and achieve rapid random-access multiplane imaging. We investigate the neuronal plasticity in the hippocampus, a critical deep brain structure, and reveal the relationship between the somatic and dendritic activity of pyramidal neurons.
+<br />
+
+**Related article:** 
+<br />
+<a href="https://doi.org/10.1126/sciadv.abc6521"> Zhongya Qin, Congping Chen, Sicong He, Ye Wang, Kam Fai Tam, Nancy Y. Ip, Jianan Y. Qu (2020). 
+ Adaptive optics two-photon endomicroscopy enables deep brain imaging at synaptic resolution over large volumes. *Science Advances*, 30 Sep 2020: Vol. 6, no. 40, eabc6521.</a>
+<br />
+
+**Related research grants:** 
+<br />
+General Research Fund (16102518): "High-resolution imaging of mouse brain in vivo through thinned skull cranial window based on adaptive optics wavefront correction"
+<br />
+Collaborative Research Fund (C6001-19EF): "High-resolution adaptive optics microscope system for live and deep imaging of biological tissues"
+<br />
+
+
+
+***3. Adaptive optics two-photon microscopy for structural and functional retinal imaging***
 
 ![screen reader text](retinal.jpg "AO enhanced retino imaging")
-Blindness is a major public health issue globally. In vivo longitudinal 
-imaging of retina at subcellular resolution could provide a powerful tool
-in discovering the progression of retinal diseases and biological basis. 
-The mouse eye has unique optical property of larger (~0.5) numerical 
-aperture (NA) compared with that of human eye (~0.2). However, the major 
-challenge is the large optical aberration of mouse eye which blurs the
-excitation laser focus and lowers the imaging resolution. With the help 
-of adaptive optics, the mouse eye aberration can be corrected and we can
-use this technology to in vivo visualize the progression of retinal 
-diseases in mouse model.
+
+In vivo fundus imaging offers non-invasive access to neuron structures and biochemical processes in the retina. 
+However, optical aberrations of the eye degrade the imaging resolution and prevent visualization of subcellular retinal structures. 
+We developed an adaptive optics two-photon excitation fluorescence microscopy (AO-TPEFM) system to correct ocular aberrations based on 
+a nonlinear fluorescent guide star and achieved subcellular resolution for in vivo fluorescence imaging of the mouse retina. 
+The AOTPEFM permits structural and functional imaging of the mouse retina with submicron resolution. 
+<br />
+
+**Related article:**
+<br />
+<a href="https://doi.org/10.1038/s41377-020-0317-9"> Zhongya Qin, Sicong He, Chao Yang, Jasmine Sum-Yee Yung, Congping Chen, Christopher Kai-Shun Leung, Kai Liu, Jianan Y. Qu (2020).
+Adaptive optics two-photon microscopy enables near-diffraction-limited and functional retinal imaging in vivo. *Nature: Light Science & Applications*, (2020)9:79.</a>
+<br />
+
+**Related research grants:** 
+<br />
+General Research Fund (16103215): “In Vivo Adaptive Optics Multiphoton Microscopy for the Study of Retinal Ganglion Cell Death and Glaucoma”
+<br />
+General Research Fund (16102421): “In vivo visualization of structural and functional progression of retinal diseases at subcellular resolution in mouse models”
+<br />

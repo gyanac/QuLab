@@ -10,9 +10,9 @@ authors:
 superuser: true
 
 # Role/position
-role: "E-mail: zshe@connect.ust.hk"
+role: B.S., HUST, Hangzhou, China <br/> E-mail zshe at connect.ust.hk
 
-weight: 4
+
 
 _build:
   render: never
@@ -23,5 +23,5 @@ cascade:
 
 
 user_groups:
-  - Doctor of Philosophy
+  - Graduate students
 ---

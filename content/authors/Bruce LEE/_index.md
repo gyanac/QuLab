@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: eelee@ust.hk"
+role: "E-mail: eelee at ust.hk"
 
 _build:
   render: never
@@ -20,6 +20,6 @@ cascade:
     list: always
 
 user_groups:
-  - Technician
+  - Senior technician and laboratory manager
 ---
 
