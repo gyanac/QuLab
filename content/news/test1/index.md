@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: ["Zhentao SHE"]
+authors: [Managers]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -56,8 +56,12 @@ slides:
 projects:
 ---
 
+[sdasdasd](https://www.google.com)
+
 **Congratulations to Congping Chen**
 
 <!--more-->
 
 **Congping Chen graduated from QuLab in Apr/2021**
+<table><tr><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082130.jpg"alt="Pulpit rock" width="390" height="400"></td><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082231.jpg" alt="Pulpit rock" width="440" height="400"></td></tr></table>
+<table><tr><td></td><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082231.jpg" alt="Pulpit rock" width="440" height="400"></td></tr></table>
