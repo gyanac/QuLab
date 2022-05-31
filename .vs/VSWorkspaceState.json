@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\media",
     "\\content",
-    "\\content\\contact",
     "\\content\\event",
-    "\\content\\event\\Last_Spring_Festival",
-    "\\content\\event\\Nanya_Trip",
     "\\content\\event\\QZY_Graduation",
     "\\content\\event\\Spring_festival",
     "\\content\\event\\Tamen_Trip",
     "\\content\\post",
     "\\content\\post\\WWJ-prize"
   ],
-  "SelectedNode": "\\config",
+  "SelectedNode": "\\assets\\media\\IMG_6701.jpg",
   "PreviewInSolutionExplorer": false
 }
