@@ -67,3 +67,6 @@ Congping Chen (PhD, 2021; B.S., HUST), Senior Engineer, Mindray Medic, Shen Zhen
 Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior Engineer, 2012 Lab, Huawei Technlogies, Shen Zhen, China
 
 </font>
+
+
+{{% cta cta_link="./contact/" cta_text="Join our team →" %}}
