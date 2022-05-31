@@ -10,14 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: "Email: yhebi@connect.ust.hk"
+role: B.S., Zhejiang University, Hangzhou, China <br/> Email yhebi at connect.ust.hk
 
 
 
 user_groups:
-  - Doctor of Philosophy
+  - Graduate students
 
-weight: 2
 
 _build:
   render: never

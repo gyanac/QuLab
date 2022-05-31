@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: thtingaa@connect.ust.hk"
+role: "E-mail: thtingaa at connect.ust.hk"
 
 _build:
   render: never
@@ -21,5 +21,5 @@ cascade:
 
 
 user_groups:
-  - Master of Philosophy
+  - Graduate students
 ---

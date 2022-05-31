@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: yfuaq@connect.ust.hk"
+role: B.S., Zhejiang University, Hangzhou, China <br/> E-mail yfuaq at connect.ust.hk
 
-weight: 3
+
 
 user_groups:
-  - Doctor of Philosophy
+  - Graduate students
 
 _build:
   render: never
