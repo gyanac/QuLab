@@ -10,9 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: gyanac@connect.ust.hk"
+role: B.S., SUSTech, Shenzhen, China <br/> E-mail gyanac at connect.ust.hk
 
-weight: 5
+
 
 _build:
   render: never
@@ -22,5 +22,5 @@ cascade:
     list: always
 
 user_groups:
-  - Doctor of Philosophy
+  - Graduate students
 ---

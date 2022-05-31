@@ -8,7 +8,7 @@ authors:
   - Zhongya QIN
 
 
-role: (Ph.D. 2021) <br/> Optical engineer, 2012 Labs, Huawei
+role: (Ph.D. 2021) <br/> Senior engineer, 2012 Labs, Huawei
 
 weight: 2
 

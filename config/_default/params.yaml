@@ -8,7 +8,7 @@
 appearance:
   theme_day: Ocean
   theme_night: 
-  font: native
+  font:  Rose   
   font_size: L
 
 # SEO
@@ -106,8 +106,10 @@ extensions:
 
 # Citation style
 
+
 publications:
   date_format: January 2006
   citation_style: apa
   disable_links_title: true
-  disable_links_title: true
+
+plugins_css : template

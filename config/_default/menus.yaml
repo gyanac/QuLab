@@ -19,7 +19,7 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: News
+  - name: "What's New"
     url: news
     weight: 60
   - name: Contact

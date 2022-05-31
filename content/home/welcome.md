@@ -16,23 +16,31 @@ design:
 content:
   slides:
     - title: Laboratory for Imaging Life with Light
-      content: Welcome to the Qu's biophotonics research lab at HKUST!
+      content: <font face=Times New Roman>_Welcome to the Qu's biophotonics research lab at HKUST! <br/> We develop next-generation optical imaging technology based on adaptive optics and nonlinear spectroscopy/microscopy for in vivo visualization of dynamical biological processes._</font> 
       align: center
       background:
         position: center
         color: '#666'
         brightness: 0.7
         media: HomeCover_4.png
+      link:
+        icon_pack: fas
+        text: Learn more
+        url: ../research/
     - title: Laboratory for Imaging Life with Light
-      content: QU Research Group is a highly interdisciplinary research team devoted to developing versatile biophotonics technology for fundamental and applied biomedical studies.
+      content: <font face=Times New Roman>_Our group is a highly interdisciplinary research team devoted to developing advanced tools for fundamental and applied biomedical studies._</font> 
       align: center
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: HomeCover_6.png
+      link:
+        icon_pack: fas
+        text: People
+        url: ../people/
     - title: Laboratory for Imaging Life with Light
-      content: We always welcome talented students from any related programs.
+      content: <font face=Times New Roman>_We always welcome talented students from any related programs!_</font> 
       align: center
       background:
         position: center
