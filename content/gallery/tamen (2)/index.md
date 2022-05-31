@@ -25,20 +25,15 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: ["Zhentao SHE"]
+authors: [Manager]
 tags: []
 
-# Is this a featured talk? (true/false)
 featured: false
 
 image:
   caption: ''
+  preview_only: true
   focal_point: Center
-
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
