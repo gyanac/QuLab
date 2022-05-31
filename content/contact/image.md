@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: IMG_6701.jpg
+    image: contact2.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -26,5 +26,4 @@ design:
 advanced:
   css_class: fullscreen
 ---
- </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br></br></br></br></br></br>
-<font size=3 color=black><p align="right">@ Photo By Tin Hinh</p></font>
+
