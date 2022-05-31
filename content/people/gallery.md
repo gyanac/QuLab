@@ -25,8 +25,5 @@ design:
 
 
 
-
-<a href="../gallery/"><div align='center' ><font size='70'><font color="Black"><div style="font-family:Times New Roman;">View Group Activity Gallery</div></font><font color="red"></div></a>
-</br>
-
+{{% cta cta_link="../gallery/" cta_text="View Lab Gallary →" %}}
 
