@@ -1,7 +1,7 @@
 ---
-title: Dr Test 's Graduation
+title: Dr Congping Chen 's Graduation
 
-event: Test Graduation
+event: Congping Chen Graduation
 event_url: 
 location: HKSAR
 address:
@@ -14,7 +14,7 @@ address:
 summary: 
 abstract: 
 
-draft: true
+draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-04-01'
@@ -56,12 +56,11 @@ slides:
 projects:
 ---
 
-[sdasdasd](https://www.google.com)
+<font face=Times New Roman>Congratulations to Congping Chen</font>
 
-**Congratulations to Congping Chen**
 
-<!--more-->
 
-**Congping Chen graduated from QuLab in Apr/2021**
-<table><tr><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082130.jpg"alt="Pulpit rock" width="390" height="400"></td><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082231.jpg" alt="Pulpit rock" width="440" height="400"></td></tr></table>
-<table><tr><td></td><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082231.jpg" alt="Pulpit rock" width="440" height="400"></td></tr></table>
+<font face=Times New Roman>_Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!_</font>
+![1122](/gallery/news/ccp_graduation/1.jpg)
+![1122](/gallery/news/ccp_graduation/2.jpg)
+![1122](/gallery/news/ccp_graduation/3.jpg)

@@ -1,7 +1,7 @@
 ---
-title: Dr Test 's Graduation
+title: Zhongya Qin 's Graduation
 
-event: Test Graduation
+event: Zhongya Qin Graduation
 event_url: 
 location: HKSAR
 address:
@@ -14,10 +14,10 @@ address:
 summary: 
 abstract: 
 
-draft: true
+draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-04-01'
+date: '2021-06-01'
 date_end: 
 all_day: false
 
@@ -56,12 +56,10 @@ slides:
 projects:
 ---
 
-[sdasdasd](https://www.google.com)
+<font face=Times New Roman>Congratulations to Zhongya Qin</font>
 
-**Congratulations to Congping Chen**
 
-<!--more-->
-
-**Congping Chen graduated from QuLab in Apr/2021**
-<table><tr><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082130.jpg"alt="Pulpit rock" width="390" height="400"></td><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082231.jpg" alt="Pulpit rock" width="440" height="400"></td></tr></table>
-<table><tr><td></td><td><img src="/gallery/news/qzy_graduation/IMG_20220531_082231.jpg" alt="Pulpit rock" width="440" height="400"></td></tr></table>
+<font face=Times New Roman>_Zhongya successfully defended his PHD dissertation. Congratulations on his graduation. Keep up to the good work, Dr. Qin!_</font>
+![1122](/gallery/news/qzy_graduation/1.jpg)
+![1122](/gallery/news/qzy_graduation/2.jpg)
+![1122](/gallery/news/qzy_graduation/3.jpg)
