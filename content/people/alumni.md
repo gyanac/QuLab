@@ -15,7 +15,7 @@ design:
 
 
 <font size='4'>
-
+<font face=Times New Roman>
 
 Zhijian Huang (Postdoc, 1998-99; PhD, HUST, China), Senior Network Solution Manager, Huawei Technologies, Basingstoke/Reading, United Kingdom
 
@@ -67,7 +67,7 @@ Congping Chen (PhD, 2021; B.S., HUST), Senior R&D Engineer, Mindray Medic, Shen 
 Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 Lab, Huawei Technlogies, Shen Zhen, China
 
 </font>
-
+</font>
 
 
 

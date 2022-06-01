@@ -56,10 +56,10 @@ and myeloid-lymphoid bipotent subtypes.
 **Related articles:**
 <br />
  * <font size=4><a href="https://doi.org/10.7554/eLife.36131">Sicong He, Jiahao Chen, Yunyun Jiang, Yi Wu, Lu Zhu, Wan Jin, Changlong Zhao, Tao Yu, Tienan Wang, Shuting Wu, Xi Lin, Jianan Y Qu, Zilong Wen, Wenqing Zhang, Jin Xu .
-Adult zebrafish Langerhans cells arise from hematopoietic stem/progenitor cells. eLife, Vol. 7 (2018).</a></font>
+<u>"Adult zebrafish Langerhans cells arise from hematopoietic stem/progenitor cells"</u>. <i><b>eLife</i></b>, Vol. 7 (2018).</a></font>
 <br />
  * <font size=4><a href="https://doi.org/10.1016/j.devcel.2015.08.018">Jin Xu, Lu Zhu, Sicong He, Yi Wu, Wan Jin, Tao Yu, Jianan Y. Qu and Zilong Wen,
-"Temporal-Spatial Resolution Fate Mapping Reveals Distinct Origins for Embryonic and Adult Microglia in Zebrafish", Developmental Cell, V. 34, 632-641 (2015)</a></font>
+<u>"Temporal-Spatial Resolution Fate Mapping Reveals Distinct Origins for Embryonic and Adult Microglia in Zebrafish"</u>, <i><b>Developmental Cell</i></b>, V. 34, 632-641 (2015)</a></font>
 <br />
 
 **Related research grants:**

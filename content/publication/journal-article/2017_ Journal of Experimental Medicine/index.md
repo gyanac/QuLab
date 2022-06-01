@@ -32,7 +32,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 
-publication: '*Journal of Experimental Medicine*, Vol. 214, No.11, 3347-3360 (2017)'
+publication: '***Journal of Experimental Medicine***, Vol. 214, No.11, 3347-3360 (2017)'
 
 publication_short: ''
 abstract: T lymphocytes are key cellular components of the adaptive immune system and play a central role in cell-mediated immunity in vertebrates. Despite their heterogeneities, it is believed that all different types of T lymphocytes are generated exclusively via the differentiation of hematopoietic stem cells (HSCs). Using temporal–spatial resolved fate-mapping analysis and time-lapse imaging, here we show that the ventral endothelium in the zebrafish aorta–gonad–mesonephros and posterior blood island, the hematopoietic tissues previously known to generate HSCs and erythromyeloid progenitors, respectively, gives rise to a transient wave of T lymphopoiesis independent of HSCs. This HSC-independent T lymphopoiesis occurs early and generates predominantly CD4 Tαβ cells in the larval but not juvenile and adult stages, whereas HSC-dependent T lymphopoiesis emerges late and produces various subtypes of T lymphocytes continuously from the larval stage to adulthood. Our study unveils the existence, origin, and ontogeny of HSC-independent T lymphopoiesis in vivo and reveals the complexity of the endothelial-hematopoietic transition of the aorta.

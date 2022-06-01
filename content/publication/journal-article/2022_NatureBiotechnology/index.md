@@ -23,7 +23,7 @@ publishDate: '2021-12-04T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Nature Biotechnology*, (Accepted)'
+publication: '***Nature Biotechnology***, (Accepted)'
 
 publication_short: ''
 abstract: High-resolution optical imaging of deep tissue in-situ such as the living brain is fundamentally challenging because of the aberration and scattering of light. In this work, we develop an innovative adaptive optics three-photon microscope based on direct focus sensing and shaping that can accurately measure and effectively compensate for both low- and high-order specimen-induced aberrations and recover near-diffraction-limited performance at depth. A conjugate adaptive optics configuration with remote focusing enables in vivo imaging of fine neuronal structures in the mouse cortex through the intact skull up to a depth of 750 µm below pia, making high-resolution microscopy in cortex near non-invasive. Functional calcium imaging with high sensitivity and accuracy, and high-precision laser-mediated microsurgery through the intact skull were demonstrated. Moreover, we also achieved in vivo high-resolution imaging of the deep cortex and subcortical hippocampus up to 1.1 mm below pia within the intact brain.# Summary. An optional shortened abstract.

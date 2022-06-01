@@ -21,7 +21,7 @@ publishDate: '2020-10-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Bioconjugate Chemistry*, 2020, 31, 10, 2413–2420 '
+publication: '***Bioconjugate Chemistry***, 2020, 31, 10, 2413–2420 '
 
 publication_short: ''
 abstract: Multienzyme complexes, or metabolons, are natural assemblies or clusters of sequential enzymes in biosynthesis. Spatial proximity of the enzyme active sites results in a substrate channeling effect, streamlines the cascade reaction, and increases the overall efficiency of the metabolic pathway. Engineers have constructed synthetic multienzyme complexes to acquire better control of the metabolic flux and a higher titer of the target product. As most of these complexes are assembled through orthogonal interactions or bioconjugation reactions, the number of enzymes to be assembled is limited by the number of orthogonal interaction or reaction pairs. Here, we utilized the Tobacco mosaic virus (TMV) virus-like particle (VLP) as protein scaffold and orthogonal reactive protein pairs (SpyCatcher/SpyTag and SnoopCatcher/SnoopTag) as linker modules to assemble three terpene biosynthetic enzymes in Escherichia coli. The enzyme assembly switched on the production of amorpha-4,11-diene, whereas the product was undetectable in all the controls without assembly. This work demonstrates a facile strategy for constructing scaffolded catalytic nanomachineries to biosynthesize valuable metabolites in bacterial cells, and a unique assembly induced the switch-on mechanism in biosynthesis for the first time.

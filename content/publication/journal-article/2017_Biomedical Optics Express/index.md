@@ -28,7 +28,7 @@ publishDate: '2017-02-230T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Biomedical Optics Express*, Vol. 8, 1771-1782 (2017)'
+publication: '***Biomedical Optics Express***, Vol. 8, 1771-1782 (2017)'
 
 publication_short: ''
 abstract: We developed a multimodal nonlinear optical (NLO) microscope system by integrating stimulated Raman scattering (SRS), second harmonic generation (SHG) and two-photon excited fluorescence (TPEF) imaging. The system was used to study the morphological and biochemical characteristics of tibial cartilage in a kinesin-1 (Kif5b) knockout mouse model. The detailed structure of fibrillar collagen in the extracellular matrix of cartilage was visualized by the forward and backward SHG signals, while high resolution imaging of chondrocytes was achieved by capturing endogenous TPEF and SRS signals of the cells. The results demonstrate that collagen fibrils in the superficial surface of the articular cartilage decreased significantly in the absence of Kif5b. The distorted morphology along with accumulated intracellular collagen was observed in the Kif5b-deficient chondrocytes, indicating the critical roles of kinesin-1 in the chondrocyte morphogenesis and collagen secretion. The study shows that multimodal NLO imaging method is an effective approach to investigate early development of cartilage.

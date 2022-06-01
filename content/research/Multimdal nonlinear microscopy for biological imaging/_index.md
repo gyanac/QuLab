@@ -49,7 +49,7 @@ at interpretation of spinal cord physiology and pathology.
 **Related article:**
 <br />
  * <font size=4><a href="https://doi.org/10.1038/s41467-022-29496-x">Wanjie Wu, Sicong He, Junqiang Wu, Congping Chen, Xuesong Li, Kai Liu, Jianan Y. Qu (2022).
- ‘Long-term in vivo imaging of mouse spinal cord through an optically cleared intervertebral window'. *Nature Communications*, V. 13, 1959 (2022).</a></font>
+ <u>"Long-term in vivo imaging of mouse spinal cord through an optically cleared intervertebral window"</u>. <i><b>Nature Communications</i></b>, V. 13, 1959 (2022).</a></font>
 <br />
 
 **Related research grants:**
@@ -81,9 +81,9 @@ can shed new light on in vivo study of metabolic dynamics and heterogeneity of a
 **Related articles:**
 <br />
 *   <font size=4><a href="https://doi.org/10.1002/jbio.201800019">Sicong He, Yitai An, Xuesong Li, Xiuqing Wei, Qiqi Sun, Zhenguo Wu, Jianan Y. Qu (2018).
- In vivo metabolic imaging and monitoring of brown and beige fat. *Journal of Biophotonics*, 11(8), e201800019.(2018).</a></br></font>
+  <u>"In vivo metabolic imaging and monitoring of brown and beige fat"</u>. <i><b>Journal of Biophotonics</i></b>, 11(8), e201800019.(2018).</a></br></font>
  * <font size=4><a href="https://doi.org/10.1002/jbio.201960057">Sicong He, Xiuqing Wei, Zhongya Qin, Congping Chen, Zhenguo Wu, Jianan Y Qu (2019).
- In vivo study of metabolic dynamics and heterogeneity in brown and beige fat by label-free multiphoton redox and fluorescence lifetime microscopy. *Journal of Biophotonics*, 2019;e201960057.</a></font>
+  <u>"In vivo study of metabolic dynamics and heterogeneity in brown and beige fat by label-free multiphoton redox and fluorescence lifetime microscopy"</u>. <i><b>Journal of Biophotonics</i></b>, 2019;e201960057.</a></font>
 <br />
 
 **Related research grants:**
@@ -111,10 +111,10 @@ in vivo. We reported a probe, named AIE-SRS-Mito, for imaging mitochondria in li
 **Related articles:**
 <br />
 * <font size=4><a href="https://doi.org/10.1021/jacs.7b06273">Xuesong Li, Meijuan Jiang, Jacky W. Y. Lam, Ben Zhong Tang and Jianan Y. Qu,
-Mitochondrial Imaging with Combined Fluorescence and Stimulated Raman Scattering Microscopy Using a Probe of the Aggregation-Induced Emission Characteristic, *Journal of the American Chemical Society*, Vol. 139, No.47, 17022-17030 (2017).</a></font>
+ <u>"Mitochondrial Imaging with Combined Fluorescence and Stimulated Raman Scattering Microscopy Using a Probe of the Aggregation-Induced Emission Characteristic"</u>, <i><b>Journal of the American Chemical Society</i></b>, Vol. 139, No.47, 17022-17030 (2017).</a></font>
 <br />
 * <font size=4><a href="https://doi.org/10.1021/acs.analchem.8b04875">Xuesong Li, Yan Li, Meijuan Jiang, Wanjie Wu, Sicong He, Congping Chen, Zhongya Qin, Yifei Qiu, Ben Zhong Tang, Ho Yi Mak, Jianan Y. Qu .
-Quantitative Imaging of Lipid Synthesis and Lipolysis Dynamics in Caenorhabditis elegans by Stimulated Raman Scattering Microscopy. *Analytical Chemistry*, Vol.91 (3), 2279-2287 (2019).</a></font>
+ <u>"Quantitative Imaging of Lipid Synthesis and Lipolysis Dynamics in Caenorhabditis elegans by Stimulated Raman Scattering Microscopy"</u>. <i><b>Analytical Chemistry</i></b>, Vol.91 (3), 2279-2287 (2019).</a></font>
 <br />
 
 **Related research grants:**

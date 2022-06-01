@@ -21,7 +21,7 @@ publishDate: '2020-05-28T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Experimental Hematology*, V.85, P.3-7 (2020) '
+publication: '***Experimental Hematology***, V.85, P.3-7 (2020) '
 
 publication_short: ''
 abstract: Hematopoiesis refers to the developmental process generating all blood lineages. In vertebrates, there are multiple waves of hematopoiesis, which emerge in distinct anatomic locations at different times and give rise to different blood lineages. In the last decade, numerous lineage-tracing studies have been conducted to investigate the hierarchical structure of the hematopoietic system. Yet, the majority of these lineage-tracing studies are not able to integrate the spatial–temporal information with the developmental potential of hematopoietic cells. With the newly developed infrared laser-evoked gene operator (IR-LEGO) microscope heating system, it is now possible to improve our understanding of hematopoiesis to spatial–temporal-controlled single-cell resolution. Here, we discuss the recent development of the IR-LEGO system and its applications in hematopoietic lineage tracing in vivo.

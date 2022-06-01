@@ -23,7 +23,7 @@ publishDate: '2019-10-18T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Biophotonics*, 2019;e201960057 '
+publication: '***Journal of Biophotonics***, 2019;e201960057 '
 
 publication_short: ''
 abstract: In this work, the metabolic characteristics of adipose tissues in live mouse model were investigated using a multiphoton redox ratio and fluorescence lifetime imaging technology. By analyzing the intrinsic fluorescence of metabolic coenzymes, we measured the optical redox ratios of adipocytes in vivo and studied their responses to thermogenesis. The fluorescence lifetime imaging further revealed changes in protein bindings of metabolic coenzymes in the adipocytes during thermogenesis. Our study uncovered significant heterogeneity in the cellular structures and metabolic characteristics of thermogenic adipocytes in brown and beige fat. Subgroups of brown and beige adipocytes were identified based on the distinct lipid size distributions, redox ratios, fluorescence lifetimes and thermogenic capacities. The results of our study show that this label-free imaging technique can shed new light on in vivo study of metabolic dynamics and heterogeneity of adipose tissues in live organisms.
