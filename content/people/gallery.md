@@ -11,7 +11,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 70
 
 title: 
 subtitle:
@@ -25,5 +25,5 @@ design:
 
 
 
-{{% cta cta_link="../gallery/" cta_text="View Lab Gallary →" %}}
+{{% cta cta_link="../gallery/" cta_text="Group Gallary →" %}}
 

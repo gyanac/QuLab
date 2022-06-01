@@ -10,9 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: B.S., Zhejiang University, Hangzhou, China <br/> E-mail yfuaq at connect.ust.hk
+role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> E-mail yfuaq at connect.ust.hk</font>
 
-
+weight: 1
 
 user_groups:
   - Graduate students

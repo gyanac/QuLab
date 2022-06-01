@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Laboratory for Imaging Life with Light
-      content: <font face=Times New Roman>_Welcome to the Qu's biophotonics research lab at HKUST! <br/> We develop next-generation optical imaging technology based on adaptive optics and nonlinear spectroscopy/microscopy for in vivo visualization of dynamical biological processes._</font> 
+      content: <font face=Times New Roman> <br/> _Welcome to the Qu's biophotonics research lab at HKUST! <br/> We develop next-generation optical imaging technology based on adaptive optics and nonlinear spectroscopy/microscopy for in vivo visualization of dynamical biological processes._</font> 
       align: center
       background:
         position: center
@@ -25,10 +25,10 @@ content:
         media: HomeCover_4.png
       link:
         icon_pack: fas
-        text: Learn more
+        text: <font face=Times New Roman>**Learn more**</font> 
         url: ../research/
     - title: Laboratory for Imaging Life with Light
-      content: <font face=Times New Roman>_Our group is a highly interdisciplinary research team devoted to developing advanced tools for fundamental and applied biomedical studies._</font> 
+      content: <font face=Times New Roman><br/> _Our group is a highly interdisciplinary research team devoted to developing advanced tools for fundamental and applied biomedical studies._</font> 
       align: center
       background:
         position: center
@@ -37,10 +37,10 @@ content:
         media: HomeCover_6.png
       link:
         icon_pack: fas
-        text: People
+        text: <font face=Times New Roman>**Meet us**</font> 
         url: ../people/
     - title: Laboratory for Imaging Life with Light
-      content: <font face=Times New Roman>_We always welcome talented students from any related programs!_</font> 
+      content: <font face=Times New Roman><br/> _We always welcome talented students from any related programs!_</font> 
       align: center
       background:
         position: center
@@ -48,8 +48,7 @@ content:
         brightness: 0.9
         media: HomeCover_9.png
       link:
-        icon: graduation-cap
         icon_pack: fas
-        text: Join Us
+        text: <font face=Times New Roman>**Join Us**</font> 
         url: ../contact/
 ---

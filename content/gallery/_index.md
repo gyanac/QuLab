@@ -1,5 +1,5 @@
 ---
-title: Group Activity Gallery
+title: Group Gallery
 
 # Listing view
 view: 2

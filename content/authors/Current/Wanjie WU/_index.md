@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: B.S., Zhejiang University, Hangzhou, China <br/> E-mail wwuas at connect.ust.hk
+role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> E-mail wwuas at connect.ust.hk</font>
 
 _build:
   render: never
@@ -20,7 +20,7 @@ cascade:
     render: never
     list: always
 
-
+weight: 5
 
 user_groups:
   - Graduate students

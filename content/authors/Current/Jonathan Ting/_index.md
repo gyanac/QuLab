@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: thtingaa at connect.ust.hk"
+role: <font color="Black"> B.S., HKUST, Hong Kong, China<br/>E-mail thtingaa at connect.ust.hk</font>
+
+weight: 4
 
 _build:
   render: never

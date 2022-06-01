@@ -39,7 +39,7 @@ Tao Wu, (PhD, 2008; B.S., HUST, China), Research Scientist, Wellman Center for P
 
 Jianping Li (PhD student, 2005-2006; B.S., Shangdong University), PhD, Hong Kong Baptist University; Professor, Shenzhen Institute of Advanced Technology, the Chinese Academy of Sciences
 
-Juanjuan Zheng (MPhil, 2009; M.S., Zhejiang University), Specialist, NIO NextEV Limited.
+Juanjuan Zheng (MPhil, 2009; M.S., Zhejiang University), Specialist, NIO NextEV Limited
 
 
 Min Wang (MPhil, 2010; B.S., Zhejiang University), Senior Engineer, ASM Pacific Technology, Hong Kong, China
@@ -50,9 +50,9 @@ Wei Zheng (PhD, 2011; B.S. Zhejiang University), Professor, Shenzhen Institute o
 
 Wei Zhang (MPhil, 2012; B.S., Fudan University), Senior Engineer, Micron Semiconductor Asia, Singapore
 
-Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), ???
+Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Singapore
 
-Yan Zeng (PhD, 2014; B.S., Zhejiang University), Manager, ????, Huawei Technologies, Shen Zhen
+Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domian Project Leader & Standard Director, Huawei Technologies, Shen Zhen 
 
 Jun Jiang (MPhil, 2014; B.S., Shangdong University), PhD, Duke University; Senior Engineer, KLA, USA
 
@@ -62,10 +62,12 @@ Sicong He (PhD, 2017; B.S., Zhejiang University), Assistant Professor, School of
 
 Xuesong Li (PhD, 2018; B.S., Zhejiang University), Postdoc Fellow, National Institute of Biomedical Imaging and Bioengineering, HIN, USA
 
-Congping Chen (PhD, 2021; B.S., HUST), Senior Engineer, Mindray Medic, Shen Zhen, China
+Congping Chen (PhD, 2021; B.S., HUST), Senior R&D Engineer, Mindray Medic, Shen Zhen, China
 
-Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior Engineer, 2012 Lab, Huawei Technlogies, Shen Zhen, China
+Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 Lab, Huawei Technlogies, Shen Zhen, China
 
 </font>
+
+
 
 
