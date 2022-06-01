@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: /Jianan/home.jpg
+    image: /Jianan/whatsnew.jpg
     image_darken: 0
     image_parallax: false
     image_position: bottom
