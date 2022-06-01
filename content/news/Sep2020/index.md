@@ -1,5 +1,5 @@
 ---
-title: Two-photon endomicroscopy allows deep-brain imaging
+title: "September 2020: In the news of \"Two-photon endomicroscopy allows deep-brain imaging\" "
 
 event: 
 event_url: 

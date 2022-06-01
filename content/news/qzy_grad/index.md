@@ -1,5 +1,5 @@
 ---
-title: Zhongya successfully defended his PHD dissertation. Congratulations on his graduation. Keep up to the good work, Dr. Qin!
+title: "July 2021: Zhongya successfully defended his PHD dissertation. Congratulations on his graduation. Keep up to the good work, Dr. Qin!"
 
 event: Zhongya Qin Graduation
 event_url: 
@@ -59,6 +59,6 @@ projects:
 
 
 <!--more-->
-![1122](/gallery/news/qzy_graduation/1.jpg)
+
 ![1122](/gallery/news/qzy_graduation/2.jpg)
 ![1122](/gallery/news/qzy_graduation/3.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Novel IR-LEGO system enables single-cell labeling and tracking in zebrafish embryos
+title: "January 2020: In the news of \"Novel IR-LEGO system enables single-cell labeling and tracking in zebrafish embryos\" "
 
 event:
 event_url: 

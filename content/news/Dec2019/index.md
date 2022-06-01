@@ -1,5 +1,5 @@
 ---
-title: Paper on in vivo single-cell lineage tracing is accepted by eLife. Congratulations to Sicong and all co-others! 
+title: "December 2019: Paper on in vivo single-cell lineage tracing is accepted by eLife. Congratulations to Sicong and all co-others! "
 
 event:
 event_url: 

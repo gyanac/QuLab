@@ -74,7 +74,7 @@ intact skull and for accurate and sensitive functional calcium imaging of brain.
 <br />
 
 
-![screen reader text](Grin_lens.png "AO enhanced grin lens imaging in deep brain")
+
 
 
 
@@ -82,7 +82,7 @@ intact skull and for accurate and sensitive functional calcium imaging of brain.
 <br />
 
 
-### **2. Deep brain imaging enabled by adaptive optics two-photon endomicroscopy**
+### **2. Deep brain imaging using adaptive optics two-photon endomicroscopy**
 <br />
 
 <img align="right" src="/imagess/Adaptiveopticsmicroscopyforfineliveimaging/abc6521-f4.jpeg" alt="Pulpit rock" width="430" height="300"/>

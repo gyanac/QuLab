@@ -1,5 +1,5 @@
 ---
-title: Our manuscript on near-noninvasive imaging of brain at high-resolution is accepted for publication in Nature Biotechnology. Congratulations to Zhongya, Zhentao and all co-authors! 
+title: "April 2022: Our manuscript on near-noninvasive imaging of brain at high-resolution is accepted for publication in Nature Biotechnology. Congratulations to Zhongya, Zhentao and all co-authors!" 
 
 
 

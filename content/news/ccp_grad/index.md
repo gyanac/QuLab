@@ -1,5 +1,5 @@
 ---
-title: Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!
+title: "May 2021: Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!"
 
 event: Congping Chen Graduation
 event_url: 
@@ -58,6 +58,6 @@ projects:
 
 <!--more-->
 
-![1122](/gallery/news/ccp_graduation/1.jpg)
+
 ![1122](/gallery/news/ccp_graduation/2.jpg)
 ![1122](/gallery/news/ccp_graduation/3.jpg)
