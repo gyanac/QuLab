@@ -1,5 +1,5 @@
 ---
-title: Paper on long-term in vivo imaging of spinal cord injury by Wanjie and Sicong is accepted for publication in Nature Communications. Congratulations, everyone! 
+title: "March 2022: Paper on long-term in vivo imaging of spinal cord injury by Wanjie and Sicong is accepted for publication in Nature Communications. Congratulations, everyone!"
 
 event:
 event_url: 

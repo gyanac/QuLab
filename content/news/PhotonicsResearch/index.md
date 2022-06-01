@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Congping and Zhongya on the acceptance of our manuscript on high-resolution two-photon transcranial imaging of brain by Photonics Research. 
+title: "April 2021: Congratulations to Congping and Zhongya on the acceptance of our manuscript on high-resolution two-photon transcranial imaging of brain by Photonics Research. "
 
 event:
 event_url: 

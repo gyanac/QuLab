@@ -1,5 +1,5 @@
 ---
-title: HKUST researchers develop long-term in vivo imaging technique to better understand and treat spinal cord injury
+title: "April 2022: HKUST researchers develop long-term in vivo imaging technique to better understand and treat spinal cord injury"
 
 event:
 event_url: 

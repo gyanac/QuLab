@@ -1,5 +1,5 @@
 ---
-title: Paper on adaptive optics two-photon endomicroscopy for deep brain imaging is accepted by Science Advances. Congratulations to Zhongya, Congping and co-authors! 
+title: "August 2020:  Paper on adaptive optics two-photon endomicroscopy for deep brain imaging is accepted by Science Advances. Congratulations to Zhongya, Congping and co-authors! "
 
 event: 
 event_url: 

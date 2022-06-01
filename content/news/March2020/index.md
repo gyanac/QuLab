@@ -1,5 +1,5 @@
 ---
-title: "Our manuscript on adaptive optics microscopy for near-diffraction-limited and functional retinal imaging is accepted for publication in Nature-Light: Science and Applications. Congratulations to Zhongya, Sicong and all co-authors!"
+title: "March 2022: Our manuscript on adaptive optics microscopy for near-diffraction-limited and functional retinal imaging is accepted for publication in Nature-Light: Science and Applications. Congratulations to Zhongya, Sicong and all co-authors!"
 
 event:
 event_url: 
@@ -30,7 +30,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-external_link: "https://eequ.home.ece.ust.hk/Dr%20Qu's%20Homepage_files/2020-LSA-1.pdf"
+external_link: "https://www.nature.com/articles/s41377-020-0317-9"
 
 image:
   caption: ''
