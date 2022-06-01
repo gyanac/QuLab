@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 100
 
 title:
 subtitle:
@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: /Jianan/contact.jpg
+    image: /Jianan/people.JPG
     image_darken: 0
     image_parallax: false
     image_position: center

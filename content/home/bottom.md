@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 1000
 
 title: 
 subtitle:
@@ -18,10 +18,10 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: back_campus.jpg
+    image: /Jianan/whatsnew.jpg
     image_darken: 0
     image_parallax: false
-    image_position: bottom
+    image_position: center
     image_size: cover
     text_color_light: true
   spacing:
