@@ -33,7 +33,7 @@ publishDate: '2019-07-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Nature Communications*, (2019) 10:2902'
+publication: '***Nature Communications***, (2019) 10:2902'
 
 publication_short: ''
 abstract: Exogenous metabolites from microbial and dietary origins have profound effects on host metabolism. Here, we report that a sub-population of lipid droplets (LDs), which are conserved organelles for fat storage, is defined by metabolite-modulated targeting of the C. elegans seipin ortholog, SEIP-1. Loss of SEIP-1 function reduces the size of a subset of LDs while over-expression of SEIP-1 has the opposite effect. Ultrastructural analysis reveals SEIP-1 enrichment in an endoplasmic reticulum (ER) subdomain, which co-purifies with LDs. Analyses of C. elegans and bacterial genetic mutants indicate a requirement of polyunsaturated fatty acids (PUFAs) and microbial cyclopropane fatty acids (CFAs) for SEIP-1 enrichment, as confirmed by dietary supplementation experiments. In mammalian cells, heterologously expressed SEIP-1 engages nascent lipid droplets and promotes their subsequent expansion in a conserved manner. Our results suggest that microbial and polyunsaturated fatty acids serve unexpected roles in regulating cellular fat storage by promoting LD diversity.

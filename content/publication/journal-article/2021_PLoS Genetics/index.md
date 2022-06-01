@@ -24,7 +24,7 @@ publishDate: '2021-07-08T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*PLoS Genetics*, 17(7): e1009635. (2021)'
+publication: '***PLoS Genetics***, 17(7): e1009635. (2021)'
 
 publication_short: ''
 abstract: The intracellular level of fatty aldehydes is tightly regulated by aldehyde dehydrogenases to minimize the formation of toxic lipid and protein adducts. Importantly, the dysregulation of aldehyde dehydrogenases has been implicated in neurologic disorder and cancer in humans. However, cellular responses to unresolved, elevated fatty aldehyde levels are poorly understood. Here, we report that ALH-4 is a C. elegans aldehyde dehydrogenase that specifically associates with the endoplasmic reticulum, mitochondria and peroxisomes. Based on lipidomic and imaging analysis, we show that the loss of ALH-4 increases fatty aldehyde levels and reduces fat storage. ALH-4 deficiency in the intestine, cell-nonautonomously induces NHR-49/NHR-79-dependent hypodermal peroxisome proliferation. This is accompanied by the upregulation of catalases and fatty acid catabolic enzymes, as indicated by RNA sequencing. Such a response is required to counteract ALH-4 deficiency since alh-4; nhr-49 double mutant animals are sterile. Our work reveals unexpected inter-tissue communication of fatty aldehyde levels and suggests pharmacological modulation of peroxisome proliferation as a therapeutic strategy to tackle pathology related to excess fatty aldehydes.

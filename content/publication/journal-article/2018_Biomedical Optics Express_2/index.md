@@ -31,7 +31,7 @@ publishDate: '2018-01-11T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Biomedical Optics Express*, Vol. 9, No. 7, 3374-90 (2018)'
+publication: '***Biomedical Optics Express***, Vol. 9, No. 7, 3374-90 (2018)'
 
 publication_short: ''
 abstract: Femtosecond laser microsurgery has become an advanced method for clinical procedures and biological research. The tissue treated by femtosecond laser can become highly fluorescent, indicating the formation of new fluorescent compounds that can naturally label the treated tissue site. We systematically characterized the fluorescence signals produced by femtosecond laser ablation in biological tissues in vivo. Our findings showed that they possess unique fluorescence properties and can be clearly differentiated from endogenous signals and major fluorescent proteins. We further demonstrated that the new fluorescent compounds can be used as in vivo labelling agent for biological imaging and guided laser microsurgery.

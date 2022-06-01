@@ -24,7 +24,7 @@ publishDate: '2018-10-30T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Materials Chemistry B*, Vol. 6, No.17, 2557-2565 (2018)'
+publication: '***Journal of Materials Chemistry B***, Vol. 6, No.17, 2557-2565 (2018)'
 
 publication_short: ''
 abstract: Two-photon excited photodynamic therapy (TP-PDT) is not only able to offer deeper penetration depth but also much more precise 3D treatment than traditional one-photon excited PDT. However, the achievement of TP-PDT requires photosensitizers with large two-photon absorption cross sections, efficient generation of reactive oxygen species, and bright two-photon fluorescence. In this work, we present a simple AIE luminogen (AIEgen), IQ-TPA, with mitochondrial targeting and susceptible two-photon excitation for image-guided photodynamic therapy in cancer cells. This feasibility of utilizing small molecular multifunctional AIEgens for TP-PDT was demonstrated together with the merits of tiny size, good cell permeability, low dark cytotoxicity and easy synthesis, showing great potential for the development of future theranostic systems.

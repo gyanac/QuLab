@@ -24,7 +24,7 @@ publishDate: '2020-04-21T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Cell Reports*, V.31, 107530 (2020) '
+publication: '***Cell Reports***, V.31, 107530 (2020) '
 
 publication_short: ''
 abstract: Impairment of microglial clearance activity contributes to beta-amyloid pathology in Alzheimers disease (AD). While the transcriptome profile of microglia directs microglial functions, how the microglial transcriptome can be regulated to alleviate AD pathology is largely unknown. Here, we show that injection of interleukin (IL)-33 in an AD transgenic mouse model ameliorates beta-amyloid pathology by reprogramming microglial epigenetic and transcriptomic profiles to induce a microglial subpopulation with enhanced phagocytic activity. These IL-33-responsive microglia (IL-33RMs) express a distinct transcriptome signature that is highlighted by increased major histocompatibility complex class II genes and restored homeostatic signature genes. IL-33-induced remodeling of chromatin accessibility and PU.1 transcription factor binding at the signature genes of IL-33RM control their transcriptome reprogramming. Specifically, disrupting PU.1-DNA interaction abolishes the microglial state transition and beta-amyloid clearance that is induced by IL-33. Thus, we define a PU.1-dependent transcriptional pathway that drives the IL-33-induced functional state transition of microglia, resulting in enhanced beta-amyloid clearance.

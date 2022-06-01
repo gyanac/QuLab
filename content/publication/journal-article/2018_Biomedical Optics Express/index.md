@@ -29,7 +29,7 @@ publishDate: '2018-06-27T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Biomedical Optics Express*, Vol. 9, No. 7, 3374-90 (2018)'
+publication: '***Biomedical Optics Express***, Vol. 9, No. 7, 3374-90 (2018)'
 
 publication_short: ''
 abstract: The femtosecond laser ablation in biological tissue produces highly fluorescent compounds that are of great significance for intrinsically labelling ablated tissue in vivo and achieving imaging-guided laser microsurgery. In this study, we analyzed the molecular structures of femtosecond laser-ablated tissues using Raman spectroscopy and transmission electron microscopy. The results showed that though laser ablation caused carbonization, no highly fluorescent nanostructures were found in the ablated tissues. Further, we found that the fluorescence properties of the newly formed compounds were spatially heterogeneous across the ablation site and the dominant fluorescent signals exhibited close similarity to the tissue directly heated at a temperature of 200 °C. The findings of our study indicated that the new fluorescent compounds were produced via the laser heating effect and their formation mechanism likely originated from the Maillard reaction, a chemical reaction between amino acids and reducing sugars in tissue.

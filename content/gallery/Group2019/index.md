@@ -1,7 +1,7 @@
 ---
-title: "Outdoor activities: Hiking at Tamen"
+title: "2019"
 
-event: Tamen trip
+event: 
 event_url: 
 
 location: HKSAR
@@ -51,4 +51,9 @@ projects:
 ---
 <!--more-->
 
-{{< figure src="Tamen.jpg" caption="**Tamen Trip**" numbered="false" >}}
+
+![12](/gallery/activities/2019/Group-2019a.JPG)
+
+![12](/gallery/activities/2019/Featured.JPG)
+
+
