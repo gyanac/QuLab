@@ -1,5 +1,5 @@
 ---
-title: "March 2022: Our manuscript on adaptive optics microscopy for near-diffraction-limited and functional retinal imaging is accepted for publication in Nature-Light: Science and Applications. Congratulations to Zhongya, Sicong and all co-authors!"
+title: "March 2020: Our manuscript on adaptive optics microscopy for near-diffraction-limited and functional retinal imaging is accepted for publication in Nature-Light: Science and Applications. Congratulations to Zhongya, Sicong and all co-authors!"
 
 event:
 event_url: 

@@ -1,5 +1,5 @@
 ---
-title: "April 2022: New imaging technique gives better SCI understanding"
+title: "April 2022: In the news of \"New imaging technique gives better SCI understanding\" "
 
 event: 
 event_url: 
