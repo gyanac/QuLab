@@ -17,7 +17,7 @@ authors:
 
 
 date: '2020-01-06T00:00:00Z'
-doi: '10.7554/eLife.52024'
+doi: 'https://doi.org/10.7554/eLife.52024'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-01-06T00:00:00Z'

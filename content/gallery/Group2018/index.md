@@ -56,3 +56,5 @@ projects:
 
 ![12](/gallery/activities/2018/Featured.JPG)
 
+
+{{% cta cta_link="../" cta_text="Back to gallery" %}}

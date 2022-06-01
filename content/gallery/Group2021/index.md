@@ -56,3 +56,5 @@ projects:
 ![12](/gallery/activities/2021/Group-2021a.JPG)
 ![12](/gallery/activities/2021/Group-2021.JPG)
 ![12](/gallery/activities/2021/Group-2011-2021.JPG)
+
+{{% cta cta_link="../" cta_text="Back to gallery" %}}

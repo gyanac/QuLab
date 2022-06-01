@@ -56,3 +56,5 @@ projects:
 
 ![12](/gallery/activities/2016/Group-2016.JPG)
 
+
+{{% cta cta_link="../" cta_text="Back to gallery" %}}
