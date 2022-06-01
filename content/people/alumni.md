@@ -39,7 +39,7 @@ Tao Wu, (PhD, 2008; B.S., HUST, China), Research Scientist, Wellman Center for P
 
 Jianping Li (PhD student, 2005-2006; B.S., Shangdong University), PhD, Hong Kong Baptist University; Professor, Shenzhen Institute of Advanced Technology, the Chinese Academy of Sciences
 
-Juanjuan Zheng (MPhil, 2009; M.S., Zhejiang University), Specialist, NIO NextEV Limited.
+Juanjuan Zheng (MPhil, 2009; M.S., Zhejiang University), Specialist, NIO NextEV Limited
 
 
 Min Wang (MPhil, 2010; B.S., Zhejiang University), Senior Engineer, ASM Pacific Technology, Hong Kong, China
@@ -52,7 +52,7 @@ Wei Zhang (MPhil, 2012; B.S., Fudan University), Senior Engineer, Micron Semicon
 
 Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Singapore
 
-Yan Zeng (PhD, 2014; B.S., Zhejiang University), Manager, ????, Huawei Technologies, Shen Zhen
+Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domian Project Leader & Standard Director, Huawei Technologies, Shen Zhen 
 
 Jun Jiang (MPhil, 2014; B.S., Shangdong University), PhD, Duke University; Senior Engineer, KLA, USA
 
@@ -67,5 +67,7 @@ Congping Chen (PhD, 2021; B.S., HUST), Senior R&D Engineer, Mindray Medic, Shen 
 Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 Lab, Huawei Technlogies, Shen Zhen, China
 
 </font>
+
+
 
 

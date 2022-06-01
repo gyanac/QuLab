@@ -25,7 +25,7 @@ content:
         media: HomeCover_4.png
       link:
         icon_pack: fas
-        text: Learn more
+        text: <font face=Times New Roman>**Learn more**</font> 
         url: ../research/
     - title: Laboratory for Imaging Life with Light
       content: <font face=Times New Roman><br/> _Our group is a highly interdisciplinary research team devoted to developing advanced tools for fundamental and applied biomedical studies._</font> 
@@ -37,7 +37,7 @@ content:
         media: HomeCover_6.png
       link:
         icon_pack: fas
-        text: Meet us
+        text: <font face=Times New Roman>**Meet us**</font> 
         url: ../people/
     - title: Laboratory for Imaging Life with Light
       content: <font face=Times New Roman><br/> _We always welcome talented students from any related programs!_</font> 
@@ -49,6 +49,6 @@ content:
         media: HomeCover_9.png
       link:
         icon_pack: fas
-        text: Join Us
+        text: <font face=Times New Roman>**Join Us**</font> 
         url: ../contact/
 ---

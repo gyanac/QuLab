@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> E-mail yfuaq at connect.ust.hk</font>
 
-
+weight: 1
 
 user_groups:
   - Graduate students

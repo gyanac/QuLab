@@ -56,6 +56,8 @@ slides:
 projects:
 ---
 
+
+
 <font face=Times New Roman>Congratulations to Zhongya Qin</font>
 
 
@@ -63,3 +65,6 @@ projects:
 ![1122](/gallery/news/qzy_graduation/1.jpg)
 ![1122](/gallery/news/qzy_graduation/2.jpg)
 ![1122](/gallery/news/qzy_graduation/3.jpg)
+
+<img src= "/gallery/news/tamen/A.jpg" />
+

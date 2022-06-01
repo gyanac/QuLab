@@ -12,7 +12,7 @@ superuser: true
 # Role/position
 role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> Email yhebi at connect.ust.hk</font>
 
-
+weight: 2
 
 user_groups:
   - Graduate students
