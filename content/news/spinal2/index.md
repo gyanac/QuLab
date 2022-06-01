@@ -1,7 +1,7 @@
 ---
-title: Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!
+title: HKUST researchers develop long-term in vivo imaging technique to better understand and treat spinal cord injury
 
-event: Congping Chen Graduation
+event:
 event_url: 
 location: HKSAR
 address:
@@ -17,9 +17,11 @@ abstract:
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-05-01'
+date: '2022-04-12'
 date_end: 
 all_day: false
+
+external_link: "https://hkust.edu.hk/news/research-and-innovation/hkust-researchers-develop-long-term-vivo-imaging-technique-better"
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -56,8 +58,4 @@ slides:
 projects:
 ---
 
-<!--more-->
 
-![1122](/gallery/news/ccp_graduation/1.jpg)
-![1122](/gallery/news/ccp_graduation/2.jpg)
-![1122](/gallery/news/ccp_graduation/3.jpg)

@@ -1,16 +1,18 @@
 {
   "ExpandedNodes": [
     "",
+    "\\config",
+    "\\config\\_default",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\publication",
-    "\\content\\publication\\journal-article",
-    "\\content\\publication\\journal-article\\2018_ACS Chemical Neuroscience",
-    "\\content\\publication\\journal-article\\2018_Analytical Chemistry",
-    "\\content\\publication\\journal-article\\2018_eLife",
-    "\\content\\publication\\journal-article\\2020_Cell Reports"
+    "\\content\\authors\\Current",
+    "\\content\\authors\\Current\\Yiming FU",
+    "\\content\\home",
+    "\\content\\people",
+    "\\static",
+    "\\static\\gallery",
+    "\\static\\gallery\\news",
+    "\\static\\gallery\\news\\qzy_graduation"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\people\\gallery.md",
   "PreviewInSolutionExplorer": false
 }

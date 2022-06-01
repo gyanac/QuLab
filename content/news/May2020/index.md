@@ -1,7 +1,7 @@
 ---
-title: Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!
+title: Two-photon microscopy breaks new ground in retina imaging
 
-event: Congping Chen Graduation
+event:
 event_url: 
 location: HKSAR
 address:
@@ -17,9 +17,11 @@ abstract:
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-05-01'
+date: '2020-05-01'
 date_end: 
 all_day: false
+
+external_link: "https://analyticalscience.wiley.com/do/10.1002/was.00020076"
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -41,6 +43,8 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+
+
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -56,8 +60,3 @@ slides:
 projects:
 ---
 
-<!--more-->
-
-![1122](/gallery/news/ccp_graduation/1.jpg)
-![1122](/gallery/news/ccp_graduation/2.jpg)
-![1122](/gallery/news/ccp_graduation/3.jpg)

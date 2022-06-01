@@ -1,7 +1,7 @@
 ---
-title: Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!
+title: Two-photon endomicroscopy allows deep-brain imaging
 
-event: Congping Chen Graduation
+event: 
 event_url: 
 location: HKSAR
 address:
@@ -17,9 +17,11 @@ abstract:
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-05-01'
+date: '2020-09-01'
 date_end: 
 all_day: false
+
+external_link: "https://optics.org/news/11/9/67"
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -55,9 +57,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-<!--more-->
-
-![1122](/gallery/news/ccp_graduation/1.jpg)
-![1122](/gallery/news/ccp_graduation/2.jpg)
-![1122](/gallery/news/ccp_graduation/3.jpg)

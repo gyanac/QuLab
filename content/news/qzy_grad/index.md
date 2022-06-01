@@ -1,5 +1,5 @@
 ---
-title: Zhongya Qin 's Graduation
+title: Zhongya successfully defended his PHD dissertation. Congratulations on his graduation. Keep up to the good work, Dr. Qin!
 
 event: Zhongya Qin Graduation
 event_url: 
@@ -58,13 +58,7 @@ projects:
 
 
 
-<font face=Times New Roman>Congratulations to Zhongya Qin</font>
-
-
-<font face=Times New Roman>_Zhongya successfully defended his PHD dissertation. Congratulations on his graduation. Keep up to the good work, Dr. Qin!_</font>
+<!--more-->
 ![1122](/gallery/news/qzy_graduation/1.jpg)
 ![1122](/gallery/news/qzy_graduation/2.jpg)
 ![1122](/gallery/news/qzy_graduation/3.jpg)
-
-<img src= "/gallery/news/tamen/A.jpg" />
-

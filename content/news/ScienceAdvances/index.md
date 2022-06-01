@@ -1,7 +1,7 @@
 ---
-title: Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!
+title: Paper on adaptive optics two-photon endomicroscopy for deep brain imaging is accepted by Science Advances. Congratulations to Zhongya, Congping and co-authors! 
 
-event: Congping Chen Graduation
+event: 
 event_url: 
 location: HKSAR
 address:
@@ -11,13 +11,21 @@ address:
   postcode: 
   country: HKSAR
 
+_build:
+  render: never
+cascade:
+  _build:
+    render: nevwe
+    list: always
+
+
 summary: 
 abstract: 
 
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-05-01'
+date: '2020-08-01'
 date_end: 
 all_day: false
 
@@ -26,6 +34,8 @@ all_day: false
 
 authors: [Managers]
 tags: []
+
+external_link: "https://www.science.org/doi/full/10.1126/sciadv.abc6521?rss=1"
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -56,8 +66,4 @@ slides:
 projects:
 ---
 
-<!--more-->
 
-![1122](/gallery/news/ccp_graduation/1.jpg)
-![1122](/gallery/news/ccp_graduation/2.jpg)
-![1122](/gallery/news/ccp_graduation/3.jpg)
