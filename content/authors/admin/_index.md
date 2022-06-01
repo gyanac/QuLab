@@ -6,17 +6,10 @@ title:  Jianan QU
 superuser: true
 
 # Role/position
-role: Professor, Department of Electronic and Computer Engineering
+role: <font color="Black">Professor, Department of Electronic and Computer Engineering</font> <br/> <font color="Black">Ph.D, Chinese Academy of Sciences</font> <br/> <font color="Black">Fellow, OSA </font> <br/> <font color="Black">Fellow, SPIE</font> <br/> <font color="Black">E-mail eequ at ust.hk</font>
 
 # Organizations/Affiliations
-organizations:
-  - name:  Ph.D, Chinese Academy of Sciences 
-    url: ''
-  - name: Fellow, OSA 
-    url: ''
-  - name: Fellow, SPIE
-    url: ''
-  - name: "E-mail: eequ at ust.hk"
+
 
 user_groups:
   # - Principal Investigator

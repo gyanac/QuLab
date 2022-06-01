@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "E-mail: eelee at ust.hk"
+role: <font color="Black">E-mail eelee at ust.hk</font>
 
 _build:
   render: never

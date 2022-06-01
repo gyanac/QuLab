@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: B.S., HUST, Hangzhou, China <br/> E-mail zshe at connect.ust.hk
+role: <font color="Black"> B.S., HUST, Wuhan, China <br/> E-mail zshe at connect.ust.hk</font>
 
 
 

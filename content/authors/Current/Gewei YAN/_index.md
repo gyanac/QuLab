@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: B.S., SUSTech, Shenzhen, China <br/> E-mail gyanac at connect.ust.hk
+role: <font color="Black">B.S., SUSTech, Shenzhen, China <br/> E-mail gyanac at connect.ust.hk</font>
 
 
 
