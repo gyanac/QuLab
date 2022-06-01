@@ -55,6 +55,9 @@ and myeloid-lymphoid bipotent subtypes.
 
 **Related articles:**
 <br />
+  * <font size=4><a href="https://doi.org/10.7554/eLife.52024">Sicong He, Ye Tian, Shachuan Feng, Yi Wu, Xinwei Shen, Kani Chen, Yingzhu He, Qiqi Sun, Xuesong Li, Jin Xu, Zilong Wen, Jianan Y Qu (2020).
+ <u>"In vivo single-cell lineage tracing in zebrafish using high-resolution infrared laser-mediated gene induction microscopy"</u>. <i><b>eLife</i></b>, 2020;9:e52024.</a></font>
+<br />
  * <font size=4><a href="https://doi.org/10.7554/eLife.36131">Sicong He, Jiahao Chen, Yunyun Jiang, Yi Wu, Lu Zhu, Wan Jin, Changlong Zhao, Tao Yu, Tienan Wang, Shuting Wu, Xi Lin, Jianan Y Qu, Zilong Wen, Wenqing Zhang, Jin Xu .
 <u>"Adult zebrafish Langerhans cells arise from hematopoietic stem/progenitor cells"</u>. <i><b>eLife</i></b>, Vol. 7 (2018).</a></font>
 <br />

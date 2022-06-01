@@ -56,3 +56,5 @@ projects:
 
 ![12](/gallery/activities/2015/Group-2015b.JPG)
 ![12](/gallery/activities/2015/Group-2015a.JPG)
+
+{{% cta cta_link="../" cta_text="Back to gallery" %}}
