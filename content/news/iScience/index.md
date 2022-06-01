@@ -1,5 +1,5 @@
 ---
-title: "October 2021: Study of neurovascular coupling by using mesoscopic and microscopic imaging by Congping and co-authors is published by iScience. Congratulations, Congping!"
+title: "October 2021: Study of neurovascular coupling using mesoscopic and microscopic imaging by Congping and co-authors is accepted for publication in iScience. Congratulations, Congping!"
 
 event:
 event_url: 
