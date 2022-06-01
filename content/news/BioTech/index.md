@@ -1,23 +1,12 @@
 ---
-title: Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!
+title: Our manuscript on near-noninvasive imaging of brain at high-resolution is accepted for publication in Nature Biotechnology. Congratulations to Zhongya, Zhentao and all co-authors! 
 
-event: Congping Chen Graduation
-event_url: 
-location: HKSAR
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: HKSAR
 
-summary: 
-abstract: 
 
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-05-01'
+date: '2022-04-01'
 date_end: 
 all_day: false
 
@@ -30,6 +19,10 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+external_link: "https://www.biorxiv.org/content/10.1101/2021.08.04.455159v1.full.pdf"
+
+
+
 image:
   caption: ''
   preview_only: true
@@ -40,6 +33,7 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -56,8 +50,3 @@ slides:
 projects:
 ---
 
-<!--more-->
-
-![1122](/gallery/news/ccp_graduation/1.jpg)
-![1122](/gallery/news/ccp_graduation/2.jpg)
-![1122](/gallery/news/ccp_graduation/3.jpg)

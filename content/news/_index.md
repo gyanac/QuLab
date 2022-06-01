@@ -1,5 +1,5 @@
 ---
-title: Recent Events
+title: What's New
 
 # Listing view
 view: 2

@@ -1,7 +1,7 @@
 ---
-title: Congping successfully defended his PhD thesis! Job well done! Congratulations Dr. Chen!
+title: Study of neurovascular coupling by using mesoscopic and microscopic imaging" by Congping and co-authors is published by iScience. Congratulations, Congping!  
 
-event: Congping Chen Graduation
+event:
 event_url: 
 location: HKSAR
 address:
@@ -17,7 +17,7 @@ abstract:
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-05-01'
+date: '2021-10-01'
 date_end: 
 all_day: false
 
@@ -26,6 +26,8 @@ all_day: false
 
 authors: [Managers]
 tags: []
+
+external_link: "https://www.sciencedirect.com/science/article/pii/S2589004221011445?via%3Dihub"
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,6 +42,13 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -56,8 +65,3 @@ slides:
 projects:
 ---
 
-<!--more-->
-
-![1122](/gallery/news/ccp_graduation/1.jpg)
-![1122](/gallery/news/ccp_graduation/2.jpg)
-![1122](/gallery/news/ccp_graduation/3.jpg)
