@@ -50,7 +50,7 @@ Wei Zheng (PhD, 2011; B.S. Zhejiang University), Professor, Shenzhen Institute o
 
 Wei Zhang (MPhil, 2012; B.S., Fudan University), Senior Engineer, Micron Semiconductor Asia, Singapore
 
-Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Singapore
+Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson. 
 
 Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domian Project Leader & Standard Director, Huawei Technologies, Shenzhen
 
