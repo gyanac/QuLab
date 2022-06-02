@@ -6,7 +6,7 @@ title:  Jianan QU
 superuser: true
 
 # Role/position
-role: <font color="Black">Professor, Department of Electronic and Computer Engineering</font> <br/> <font color="Black">Ph.D, Chinese Academy of Sciences</font> <br/> <font color="Black">Fellow, OSA </font> <br/> <font color="Black">Fellow, SPIE</font> <br/> <font color="Black">E-mail eequ at ust.hk</font>
+role: <font color="Black">Professor, Department of Electronic and Computer Engineering</font> <br/> <font color="Black">Ph.D, Chinese Academy of Sciences</font> <br/> <font color="Black">Fellow, OSA </font> <br/> <font color="Black">Fellow, SPIE</font> <br/><br/>  <font color="Black">E-mail eequ at ust.hk</font> <br/> <font color="Black">Department link  <a href="https://ece.hkust.edu.hk/eequ"><font color="Black"> <u> ece.hkust.edu.hk/eequ </u></font>  </a> </font> 
 
 # Organizations/Affiliations
 

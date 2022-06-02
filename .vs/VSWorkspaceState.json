@@ -2,16 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\gallery",
+    "\\content\\authors\\Current",
+    "\\content\\contact",
     "\\content\\gallery\\Group2017",
-    "\\content\\people",
-    "\\content\\publication",
     "\\content\\publication\\journal-article",
-    "\\content\\research",
     "\\content\\research\\Multimdal nonlinear microscopy for biological imaging"
   ],
-  "SelectedNode": "\\content\\publication\\_index.md",
+  "SelectedNode": "\\content\\contact\\contact.md",
   "PreviewInSolutionExplorer": false
 }
