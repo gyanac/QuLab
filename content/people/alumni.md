@@ -50,21 +50,21 @@ Wei Zheng (PhD, 2011; B.S. Zhejiang University), Professor, Shenzhen Institute o
 
 Wei Zhang (MPhil, 2012; B.S., Fudan University), Senior Engineer, Micron Semiconductor Asia, Singapore
 
-Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Singapore
+Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson. 
 
-Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domian Project Leader & Standard Director, Huawei Technologies, Shen Zhen 
+Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domian Project Leader & Standard Director, Huawei Technologies, Shenzhen
 
 Jun Jiang (MPhil, 2014; B.S., Shangdong University), PhD, Duke University; Senior Engineer, KLA, USA
 
-Qiqi Sun (PhD, 2017; B.S., Zhejiang University), Senior Engineer, Edan Instruments, Shen Zhen, China
+Qiqi Sun (PhD, 2017; B.S., Zhejiang University), Senior R&D  Engineer, Edan Instruments, Shenzhen, China
 
 Sicong He (PhD, 2017; B.S., Zhejiang University), Assistant Professor, School of Life Science, SUSTech, China
 
 Xuesong Li (PhD, 2018; B.S., Zhejiang University), Postdoc Fellow, National Institute of Biomedical Imaging and Bioengineering, HIN, USA
 
-Congping Chen (PhD, 2021; B.S., HUST), Senior R&D Engineer, Mindray Medic, Shen Zhen, China
+Congping Chen (PhD, 2021; B.S., HUST), Senior R&D Engineer, Mindray Medic, Shenzhen, China
 
-Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 Lab, Huawei Technlogies, Shen Zhen, China
+Zhongya Qin (PhD, 2021; B.S., Zhejiang University), Senior R&D  Engineer, 2012 Lab, Huawei Technlogies, Shenzhen, China
 
 </font>
 </font>
