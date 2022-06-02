@@ -14,8 +14,17 @@ main:
     url: people
     weight: 30
   - name: Publications
-    url: publication
+    identifier: pubs
+    url: /
     weight: 40
+  - name: Full Publications
+    parent: pubs
+    url: fullpub/Publications.pdf
+    weight: 20
+  - name: Recent Publications
+    parent: pubs
+    url: publication
+    weight: 10
   - name: "What's New"
     url: news
     weight: 50
