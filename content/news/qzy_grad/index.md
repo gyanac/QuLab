@@ -1,5 +1,5 @@
 ---
-title: "July 2021: Zhongya successfully defended his PHD dissertation. Congratulations on his graduation. Keep up to the good work, Dr. Qin!"
+title: "July 2021: Zhongya successfully defended his PhD dissertation. Congratulations on his graduation. Keep up to the good work, Dr. Qin!"
 
 event: Zhongya Qin Graduation
 event_url: 
