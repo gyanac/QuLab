@@ -1,18 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\config",
-    "\\config\\_default",
     "\\content",
-    "\\content\\authors\\Current",
-    "\\content\\authors\\Current\\Yiming FU",
-    "\\content\\home",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\gallery",
+    "\\content\\gallery\\Group2017",
     "\\content\\people",
-    "\\static",
-    "\\static\\gallery",
-    "\\static\\gallery\\news",
-    "\\static\\gallery\\news\\qzy_graduation"
+    "\\content\\publication",
+    "\\content\\publication\\journal-article",
+    "\\content\\research",
+    "\\content\\research\\Multimdal nonlinear microscopy for biological imaging"
   ],
-  "SelectedNode": "\\content\\people\\gallery.md",
+  "SelectedNode": "\\content\\publication\\_index.md",
   "PreviewInSolutionExplorer": false
 }
