@@ -1,0 +1,33 @@
+create new website:
+hugo new site hugo-demo -f yml
+
+post online
+hugo server
+
+account:
+gituhub, netlify
+username: QuLabEmail@gmail.com
+password(gmail): 3125B3125B
+password(github):3125b3125B
+
+++++
+Prerequisite
+
+--git
+https://blog.csdn.net/wuwang0/article/details/84104388
+
+--scoop
+https://sspai.com/post/52496
+
+--go
+https://go.dev/dl/
+
+--hugo extended
+https://gohugo.io/getting-started/installing/
+
+visual studio link github.
+pull (update local repository)
+push (update github repository)
+
+
+pull request

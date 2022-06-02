@@ -19,10 +19,14 @@ content:
   phone: (852) 2358 8541
 
   address:
-    street: Clear Water Bay Rd
+    street:  Hong Kong University of Science and Technology, Clear Water Bay Rd
     city: Hong Kong
+    region: China
+    postcode: 
+    country: China
+    country_code: China
 
-
+     
   coordinates:
     latitude: '22.3375'
     longitude: '114.263'
