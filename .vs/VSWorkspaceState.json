@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\content",
+    "\\content\\authors",
+    "\\content\\authors\\admin",
     "\\content\\authors\\Current",
     "\\content\\contact",
-    "\\content\\gallery\\Group2017",
-    "\\content\\publication\\journal-article",
+    "\\content\\research",
+    "\\content\\research\\Adaptive optics microscopy for fine live imaging",
     "\\content\\research\\Multimdal nonlinear microscopy for biological imaging"
   ],
-  "SelectedNode": "\\content\\contact\\contact.md",
+  "SelectedNode": "\\content\\research\\Adaptive optics microscopy for fine live imaging\\_index.md",
   "PreviewInSolutionExplorer": false
 }

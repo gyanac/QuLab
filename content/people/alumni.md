@@ -33,7 +33,7 @@ Peng Xi (Postdoc. 2004-2005; PhD, Chinese Academy of Sciences), Professor, the C
 
 Yuk Lam WONG (MPhil, 2006; B.S., Hong Kong University),
 
-Yicong Wu (PhD, 2007; B.S. & M.S., Zhejiang University), Senior Staff Scientist, National Institute of Biomedical Imaging and Bioengineering, HIN, USA
+Yicong Wu (PhD, 2007; B.S. & M.S., Zhejiang University), Senior Staff Scientist, National Institute of Biomedical Imaging and Bioengineering, NIH, USA
 
 Tao Wu, (PhD, 2008; B.S., HUST, China), Research Scientist, Wellman Center for Photomedicine, Massachusetts General Hospital, USA (last contact)
 
@@ -52,7 +52,7 @@ Wei Zhang (MPhil, 2012; B.S., Fudan University), Senior Engineer, Micron Semicon
 
 Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singapore), Senior manager, Johnson and Johnson. 
 
-Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domian Project Leader & Standard Director, Huawei Technologies, Shenzhen
+Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domain Project Leader & Standard Director, Huawei Technologies, Shenzhen
 
 Jun Jiang (MPhil, 2014; B.S., Shangdong University), PhD, Duke University; Senior Engineer, KLA, USA
 
