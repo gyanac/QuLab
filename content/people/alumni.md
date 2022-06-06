@@ -37,7 +37,7 @@ Yicong Wu (PhD, 2007; B.S. & M.S., Zhejiang University), Senior Staff Scientist,
 
 Tao Wu, (PhD, 2008; B.S., HUST, China), Research Scientist, Wellman Center for Photomedicine, Massachusetts General Hospital, USA (last contact)
 
-Jianping Li (PhD student, 2005-2006; B.S., Shangdong University), PhD, Hong Kong Baptist University; Professor, Shenzhen Institute of Advanced Technology, the Chinese Academy of Sciences
+Jianping Li (PhD student, 2005-2006; B.S., Shandong University), PhD, Hong Kong Baptist University; Professor, Shenzhen Institute of Advanced Technology, the Chinese Academy of Sciences
 
 Juanjuan Zheng (MPhil, 2009; M.S., Zhejiang University), Specialist, NIO NextEV Limited
 
@@ -54,7 +54,7 @@ Seng Khoon Teh (PhD student, 2011-2013; B.S.&M.S., National University of Singap
 
 Yan Zeng (PhD, 2014; B.S., Zhejiang University), Home Domain Project Leader & Standard Director, Huawei Technologies, Shenzhen
 
-Jun Jiang (MPhil, 2014; B.S., Shangdong University), PhD, Duke University; Senior Engineer, KLA, USA
+Jun Jiang (MPhil, 2014; B.S., Shandong University), PhD, Duke University; Senior Engineer, KLA, USA
 
 Qiqi Sun (PhD, 2017; B.S., Zhejiang University), Senior R&D  Engineer, Edan Instruments, Shenzhen, China
 
