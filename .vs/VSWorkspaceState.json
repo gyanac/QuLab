@@ -3,13 +3,11 @@
     "",
     "\\content",
     "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\authors\\Current",
-    "\\content\\contact",
-    "\\content\\people",
-    "\\content\\research",
-    "\\content\\research\\Adaptive optics microscopy for fine live imaging",
-    "\\content\\research\\Multimdal nonlinear microscopy for biological imaging"
+    "\\content\\publication",
+    "\\content\\publication\\journal-article\\2022_Angewandte Chemie International Edition",
+    "\\content\\publication\\journal-article\\2022_Nature Communications",
+    "\\content\\research"
   ],
+  "SelectedNode": "\\content\\publication\\journal-article",
   "PreviewInSolutionExplorer": false
 }
