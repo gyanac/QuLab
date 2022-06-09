@@ -4,10 +4,9 @@
     "\\content",
     "\\content\\authors",
     "\\content\\publication",
-    "\\content\\publication\\journal-article\\2022_Angewandte Chemie International Edition",
-    "\\content\\publication\\journal-article\\2022_Nature Communications",
+    "\\content\\publication\\journal-article",
     "\\content\\research"
   ],
-  "SelectedNode": "\\content\\publication\\journal-article",
+  "SelectedNode": "\\content\\publication\\journal-article\\template",
   "PreviewInSolutionExplorer": false
 }

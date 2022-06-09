@@ -1,6 +1,6 @@
 
 ---
-title: Research Topics
+title: Recent Research Topics
 
 # Listing view
 view: 2

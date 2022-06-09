@@ -1,5 +1,5 @@
 ---
-title: PRINCIPAL INVESTIGATOR
+title: 
 
 widget: about
 headless: true  # This file represents a page section.
@@ -11,3 +11,5 @@ weight: 1
 # This should be the username of a profile in your `content/authors/` folder.
 author: 'admin'
 ---
+
+

@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Laboratory for Imaging Life with Light
-      content: <font face=Times New Roman> <br/> _Welcome to the Qu's biophotonics research lab at HKUST! <br/> We develop next-generation optical imaging technology based on adaptive optics and nonlinear spectroscopy/microscopy for in vivo visualization of dynamical biological processes._</font> 
+      content: <font face=Times New Roman> <br/> _Welcome to Qu’s biophotonics research lab at HKUST! <br/> We develop next-generation optical imaging technology based on adaptive optics and nonlinear spectroscopy/microscopy for in vivo visualization of dynamical biological processes._</font> 
       align: center
       background:
         position: center
