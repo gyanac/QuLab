@@ -1,36 +1,27 @@
 ---
-title: "June 2022: In the news of \"Researchers demonstrate near-non-invasive in-vivo imaging in mouse cortex at an unprecedented depth\" "
+title: "June 2022: In the news of \"Researchers demonstrate near-non-invasive in-vivo imaging in mouse cortex at an unprecedented depth\" " 
 
-event:
-event_url: 
-location: HKSAR
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: HKSAR
 
-summary: 
-abstract: 
 
 draft: false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-13
+date: '2022-06-13'
 date_end: 
 all_day: false
 
-external_link: "https://medicalxpress.com/news/2022-06-near-non-invasive-in-vivo-imaging-mouse-cortex.html"
-
 # Schedule page publish date (NOT talk date).
-# publishDate: '2022-06-13T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 authors: [Managers]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
+
+external_link: "https://medicalxpress.com/news/2022-06-near-non-invasive-in-vivo-imaging-mouse-cortex.html"
+
+
 
 image:
   caption: ''
@@ -42,7 +33,6 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
 
 
 # Markdown Slides (optional).
