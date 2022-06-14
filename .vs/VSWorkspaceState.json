@@ -3,10 +3,12 @@
     "",
     "\\content",
     "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\people",
     "\\content\\publication",
     "\\content\\publication\\journal-article",
     "\\content\\research"
   ],
-  "SelectedNode": "\\content\\publication\\journal-article\\template",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }
