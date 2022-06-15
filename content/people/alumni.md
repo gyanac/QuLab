@@ -60,7 +60,7 @@ Qiqi Sun (PhD, 2017; B.S., Zhejiang University), Senior R&D  Engineer, Edan Inst
 
 Sicong He (PhD, 2017; B.S., Zhejiang University), Assistant Professor, School of Life Science, SUSTech, China
 
-Xuesong Li (PhD, 2018; B.S., Zhejiang University), Postdoc Fellow, National Institute of Biomedical Imaging and Bioengineering, HIN, USA
+Xuesong Li (PhD, 2018; B.S., Zhejiang University), Postdoc Fellow, National Institute of Biomedical Imaging and Bioengineering, NIH, USA
 
 Congping Chen (PhD, 2021; B.S., HUST), Senior R&D Engineer, Mindray Medic, Shenzhen, China
 

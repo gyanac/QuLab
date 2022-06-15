@@ -4,11 +4,14 @@
     "\\content",
     "\\content\\authors",
     "\\content\\authors\\admin",
-    "\\content\\people",
+    "\\content\\news",
+    "\\content\\news\\2022medicalexpress",
+    "\\content\\news\\BioTech",
+    "\\content\\news\\Sep2020",
+    "\\content\\news\\test1",
     "\\content\\publication",
-    "\\content\\publication\\journal-article",
     "\\content\\research"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\news\\2022medicalexpress\\index.md",
   "PreviewInSolutionExplorer": false
 }
