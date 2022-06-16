@@ -3,14 +3,14 @@
     "",
     "\\content",
     "\\content\\news",
-    "\\content\\news\\2022medicalexpress",
-    "\\content\\news\\BioTech",
-    "\\content\\news\\Sep2020",
     "\\content\\news\\test1",
     "\\content\\people",
     "\\content\\publication",
-    "\\content\\research"
+    "\\content\\publication\\journal-article",
+    "\\content\\publication\\journal-article\\2022_NatureBiotechnology",
+    "\\content\\research",
+    "\\content\\research\\Adaptive optics microscopy for fine live imaging"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\research\\Adaptive optics microscopy for fine live imaging\\_index.md",
   "PreviewInSolutionExplorer": false
 }
