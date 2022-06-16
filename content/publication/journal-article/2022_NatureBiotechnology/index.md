@@ -11,7 +11,7 @@ authors:
 
 
 date: '2022-06-13T00:00:00Z'
-doi: 'https://www.nature.com/articles/s41587-022-01343-w'
+doi: 'https://doi.org/10.1038/s41587-022-01343-w'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-13T00:00:00Z'

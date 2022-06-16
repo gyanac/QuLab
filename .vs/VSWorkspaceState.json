@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\authors",
-    "\\content\\authors\\admin",
     "\\content\\news",
     "\\content\\news\\2022medicalexpress",
     "\\content\\news\\BioTech",
     "\\content\\news\\Sep2020",
     "\\content\\news\\test1",
+    "\\content\\people",
     "\\content\\publication",
     "\\content\\research"
   ],
-  "SelectedNode": "\\content\\news\\2022medicalexpress\\index.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -60,8 +60,8 @@ intact skull and for accurate and sensitive functional calcium imaging of brain.
 
 **Related articles:** 
 <br />
- * <font size=4><a href="https://doi.org/10.1101/2021.08.04.455159">Zhongya Qin, Zhentao SHE, Congping Chen, Wanjie Wu, Jackie K.Y. Lau, Nancy Y. Ip, Jianan Y. Qu (2021).
- <u>"Deep tissue multi-photon imaging using adaptive optics with direct focus sensing and shaping"</u>. <i><b>Nature Biotechnology</i></b>, (in press) </a><br/></font>
+ * <font size=4><a href="https://doi.org/10.1038/s41587-022-01343-w">Zhongya Qin, Zhentao SHE, Congping Chen, Wanjie Wu, Jackie K.Y. Lau, Nancy Y. Ip, Jianan Y. Qu (2022).
+ <u>"Deep tissue multi-photon imaging using adaptive optics with direct focus sensing and shaping"</u>. <i><b>Nature Biotechnology</i></b>, (2022) </a><br/></font>
  * <font size=4><a href="https://doi.org/10.1364/PRJ.420220"> Congping Chen, Zhongya Qin, Sicong He, Shaojun Liu, Shun-Fat Lau, Wanjie Wu, Dan Zhu, Nancy Y. Ip, Jianan Y. Qu (2021).
  <u>"High-resolution two-photon transcranial imaging of brain using direct wavefront sensing"</u>. <i><b>Photonics Research</i></b>, Vol. 9, Issue 6, pp. 1144-1156 (2021)</a></font>
 <br />
