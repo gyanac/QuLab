@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\news",
-    "\\content\\news\\test1",
-    "\\content\\people",
-    "\\content\\publication",
-    "\\content\\publication\\journal-article",
-    "\\content\\publication\\journal-article\\2022_NatureBiotechnology",
-    "\\content\\research",
-    "\\content\\research\\Adaptive optics microscopy for fine live imaging"
+    "\\content\\gallery",
+    "\\content\\gallery\\Group2021",
+    "\\content\\gallery\\Group2022",
+    "\\content\\research\\Adaptive optics microscopy for fine live imaging",
+    "\\static",
+    "\\static\\gallery",
+    "\\static\\gallery\\activities",
+    "\\static\\gallery\\activities\\2022"
   ],
-  "SelectedNode": "\\content\\people\\alumni.md",
+  "SelectedNode": "\\static\\gallery\\activities\\2022\\Group-2022-2.JPG",
   "PreviewInSolutionExplorer": false
 }

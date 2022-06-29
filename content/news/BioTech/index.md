@@ -19,7 +19,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-external_link: "https://www.biorxiv.org/content/10.1101/2021.08.04.455159v1.full.pdf"
+external_link: "https://www.nature.com/articles/s41587-022-01344-9"
 
 
 
