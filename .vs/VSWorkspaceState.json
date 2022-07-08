@@ -3,14 +3,13 @@
     "",
     "\\content",
     "\\content\\gallery",
-    "\\content\\gallery\\Group2021",
-    "\\content\\gallery\\Group2022",
-    "\\content\\research\\Adaptive optics microscopy for fine live imaging",
+    "\\content\\news",
+    "\\content\\news\\BioTech",
     "\\static",
     "\\static\\gallery",
     "\\static\\gallery\\activities",
     "\\static\\gallery\\activities\\2022"
   ],
-  "SelectedNode": "\\static\\gallery\\activities\\2022\\Group-2022-2.JPG",
+  "SelectedNode": "\\content\\news\\BioTech\\index.md",
   "PreviewInSolutionExplorer": false
 }

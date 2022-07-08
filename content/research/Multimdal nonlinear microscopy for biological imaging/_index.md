@@ -56,6 +56,8 @@ at interpretation of spinal cord physiology and pathology.
 <br />
 * <font size=4>General Research Fund (16102920): “Development of advanced multimodal nonlinear optical microscopy for in vivo study of spinal cord injury”</font>
 <br />
+* <font size=4>Collaborative Research Fund (C6001-19EF): “High-resolution adaptive optics microscope system for live and deep imaging of biological tissues”</font>
+<br />
 * <font size=4>Research Equipment Competition (REC14EG09): “High resolution stimulated Raman scattering (SRS) microscope system”</font>
 <br />
 <br />

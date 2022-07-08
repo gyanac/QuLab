@@ -68,11 +68,12 @@ intact skull and for accurate and sensitive functional calcium imaging of brain.
 
 **Related research grants:** 
 <br />
-* <font size=4>General Research Fund (16102518): "High-resolution imaging of mouse brain in vivo through thinned skull cranial window based on adaptive optics wavefront correction"</font>
+* <font size=4>General Research Fund (16102122): "Noninvasive deep brain imaging of adult zebrafish at high resolution"</font>
 <br />
-* <font size=4>Collaborative Research Fund (C6001-19EF): "High-resolution adaptive optics microscope system for live and deep imaging of biological tissues"</font>
+* <font size=4>General Research Fund (16102518): “High-resolution imaging of mouse brain in vivo through thinned skull cranial window based on adaptive optics wavefront correction”</font>
 <br />
-
+* <font size=4>Collaborative Research Fund (C6001-19EF): “High-resolution adaptive optics microscope system for live and deep imaging of biological tissues”</font>
+<br />
 
 
 
