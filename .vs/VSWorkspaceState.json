@@ -2,14 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\gallery",
-    "\\content\\news",
-    "\\content\\news\\BioTech",
-    "\\static",
-    "\\static\\gallery",
-    "\\static\\gallery\\activities",
-    "\\static\\gallery\\activities\\2022"
+    "\\content\\authors",
+    "\\content\\authors\\admin",
+    "\\content\\research",
+    "\\content\\research\\Adaptive optics microscopy for fine live imaging",
+    "\\content\\research\\Multimdal nonlinear microscopy for biological imaging",
+    "\\static"
   ],
-  "SelectedNode": "\\content\\news\\BioTech\\index.md",
+  "SelectedNode": "\\content\\authors\\admin\\_index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: <font color="Black">B.S., SUSTech, Shenzhen, China <br/> E-mail gyanac at connect.ust.hk</font>
 
-weight: 6
+weight: 7
 
 _build:
   render: never

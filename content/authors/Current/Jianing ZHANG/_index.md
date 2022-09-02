@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Wanjie  WU
+title: Jianing ZHANG
 
 
 # Username (this should match the folder name)
 authors:
-  - WU, Wanjie
+  - ZHANG, Jianing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> E-mail wwuas at connect.ust.hk</font>
+role: <font color="Black"> B.S., Zhejiang University, Hangzhou, China <br/> E-mail jzhangih at connect.ust.hk</font>
 
 _build:
   render: never
@@ -20,7 +20,7 @@ cascade:
     render: never
     list: always
 
-weight: 6
+weight: 8
 
 user_groups:
   - Graduate students
