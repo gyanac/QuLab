@@ -3,12 +3,14 @@
     "",
     "\\content",
     "\\content\\authors",
-    "\\content\\authors\\admin",
-    "\\content\\research",
-    "\\content\\research\\Adaptive optics microscopy for fine live imaging",
-    "\\content\\research\\Multimdal nonlinear microscopy for biological imaging",
-    "\\static"
+    "\\content\\authors\\Current",
+    "\\content\\authors\\Current\\Gewei YAN",
+    "\\content\\authors\\Current\\Jianing ZHANG",
+    "\\content\\authors\\Current\\Jonathan Ting",
+    "\\content\\authors\\Current\\Yiming FU",
+    "\\content\\authors\\Current\\Yingzhu HE",
+    "\\content\\authors\\Current\\Zhentao SHE"
   ],
-  "SelectedNode": "\\content\\authors\\admin\\_index.md",
+  "SelectedNode": "\\content\\authors\\Current\\Jianing ZHANG\\_index.md",
   "PreviewInSolutionExplorer": false
 }
