@@ -53,7 +53,7 @@ projects:
 
 
 ![12](/gallery/activities/2022/Group-2022.JPG)
-![12](/gallery/activities/2022/Group-2022-2.JPG)
+![12](/gallery/activities/2022/Group-2022-3.JPG)
 
 
 {{% cta cta_link="../" cta_text="Back to gallery" %}}
