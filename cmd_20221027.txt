@@ -9,7 +9,7 @@ gituhub, netlify
 username: QuLabEmail@gmail.com
 password(gmail): 3125B3125B
 password(github):3125b3125B
-
+password(netlify):quweb125b
 ++++
 Prerequisite
 

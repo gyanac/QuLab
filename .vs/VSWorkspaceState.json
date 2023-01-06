@@ -4,13 +4,14 @@
     "\\content",
     "\\content\\authors",
     "\\content\\authors\\Current",
-    "\\content\\authors\\Current\\Gewei YAN",
-    "\\content\\authors\\Current\\Jianing ZHANG",
-    "\\content\\authors\\Current\\Jonathan Ting",
-    "\\content\\authors\\Current\\Yiming FU",
-    "\\content\\authors\\Current\\Yingzhu HE",
-    "\\content\\authors\\Current\\Zhentao SHE"
+    "\\content\\authors\\Current\\Zhentao SHE",
+    "\\content\\gallery",
+    "\\content\\gallery\\Group2022",
+    "\\static",
+    "\\static\\gallery",
+    "\\static\\gallery\\activities",
+    "\\static\\gallery\\activities\\2022"
   ],
-  "SelectedNode": "\\content\\authors\\Current\\Jianing ZHANG\\_index.md",
+  "SelectedNode": "\\content\\gallery\\Group2022\\index.md",
   "PreviewInSolutionExplorer": false
 }
