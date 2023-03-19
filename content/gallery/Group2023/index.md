@@ -57,5 +57,4 @@ projects:
 ![12](/gallery/activities/2023/Group-2023-3.JPG)
 ![12](/gallery/activities/2023/Group-2023-4.JPG)
 ![12](/gallery/activities/2023/Group-2023-5.JPG)
-![12](/gallery/activities/2023/IMG_20230213_221533.jpg)
 {{% cta cta_link="../" cta_text="Back to gallery" %}}
