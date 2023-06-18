@@ -44,11 +44,7 @@ design:
 
 
 <br />
-<font face=Times New Roman>
-Our congratulations go to Dong Li, a 2011 PhD graduate from our lab, for being selected in the 2022 New Cornerstone Investigator Program (). 
-This program, created by Tencent as a nonprofit and independent fund, seeks to encourage basic research that has profound significance for humanity by providing long-term 
-and stable support to a selected group of exceptional scientists. Among the 58 scientists chosen for the program is Professor Li, who will receive an annual budget of up 
-to 5 million RMB (for experimental research) over a five-year period.<br />
+
 
 
 <br />
