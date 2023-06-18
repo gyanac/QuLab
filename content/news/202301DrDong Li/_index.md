@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: "January 2023: Dr. Dong Li, an alumnus of our lab was selected in Tencent’s New Cornerstone Investigator Program"  
+title: "January 2023 Dr. Dong Li, an alumnus of our lab was selected in Tencent’s New Cornerstone Investigator Program"  
 
 # Section subtitle
 subtitle:
