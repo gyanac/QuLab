@@ -68,6 +68,8 @@ intact skull and for accurate and sensitive functional calcium imaging of brain.
 
 **Related research grants:** 
 <br />
+* <font size=4>General Research Fund (16102123): "Rapid focus sensing and shaping for near non-invasive microscopy of the brain with high-resolution and a large field-of-view"</font>
+<br />
 * <font size=4>General Research Fund (16102122): "Noninvasive deep brain imaging of adult zebrafish at high resolution"</font>
 <br />
 * <font size=4>General Research Fund (16102518): “High-resolution imaging of mouse brain in vivo through thinned skull cranial window based on adaptive optics wavefront correction”</font>
