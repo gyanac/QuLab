@@ -1,5 +1,5 @@
 ---
-title: "September 2023: We are delighted to share the exciting news that our manuscript exploring the complexities of skeletal muscle regeneration with the aid of intravital multimodal microscopy has been accepted for publication in Science Advances. We extend our warmest congratulations to Yingzhu, Youshan, and all the co-authors for their remarkable efforts and contributions to this accomplishment!" 
+title: "Sept. 2023: Our manuscript exploring the complexities of skeletal muscle regeneration with the aid of intravital multimodal microscopy has been accepted for publication in Science Advances. Congratulations to Yingzhu, Youshan, and all the co-authors for their contributions to this accomplishment!" 
 
 
 weight: 1
