@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2023.02.01.526724v1.full.pdf
+url_pdf: https://www.science.org/doi/epdf/10.1126/sciadv.adi1891
 
 projects: []
 
