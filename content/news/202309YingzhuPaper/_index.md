@@ -18,7 +18,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-external_link: "https://www.biorxiv.org/content/10.1101/2023.02.01.526724v1"
+external_link: "https://www.science.org/doi/10.1126/sciadv.adi1891"
 
 
 
